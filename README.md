@@ -9,6 +9,6 @@ Questions in AlgoExpert are categorized by data structure and then by difficulty
 
 ## [LeetCode](/LeetCode)
 Questions in LeetCode are categorized by difficulty. 
-The number in the question title represents the question number in LeetCode.
+The number in the title of the question represents the question number in LeetCode.
 
 Updating.
