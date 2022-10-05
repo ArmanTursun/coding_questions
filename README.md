@@ -10,7 +10,7 @@ Questions in AlgoExpert are categorized by data structure and then by difficulty
 ### [Arrays](/AlgoExpert/Arrays)
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-| 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two Number Sum.py) | Easy | 
+| 1 | [Two Number Sum](https://github.com/ArmanTursun/coding_questions/blob/17ecbeadc0640296485ca312eabe50dd888cefa3/AlgoExpert/Arrays/Easy/Two%20Number%20Sum.py) | Easy |
 
 ### [Binary Search Trees](/AlgoExpert/Binary Search Trees)
 ### [Binary Trees](/AlgoExpert/Binary Trees)
