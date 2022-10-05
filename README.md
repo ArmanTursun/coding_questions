@@ -1,14 +1,13 @@
 # Coding Questions
 Coding interview questions ([LeetCode](#leetcode) &amp; [AlgoExpert](#algoexpert))
 
-All codes are written in Python.
-
-Feel free to add solutions with other languages.
+- All codes are written in Python.
+- Feel free to add solutions with other languages.
+- Since codes are copied from various editors, they may not be run directly. Treat them as `Pseudocodes`.
 
 ## [AlgoExpert](/AlgoExpert)
 Questions in AlgoExpert are categorized by data structure and then by difficulty.
 
-Since codes are copied from various editors, they may not be run directly. Treat them as `Pseudocodes`.
 
 
 
