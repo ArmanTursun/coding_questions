@@ -8,6 +8,10 @@ Feel free to add solutions with other languages.
 Questions in AlgoExpert are categorized by data structure and then by difficulty.
 
 ### [Arrays](/AlgoExpert/Arrays)
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+| 1 | Two Numver Sum | [Easy](### Google) | 
+
 ### [Binary Search Trees](/AlgoExpert/Binary Search Trees)
 ### [Binary Trees](/AlgoExpert/Binary Trees)
 ### [Dynamic Programming](/AlgoExpert/Dynamic Programming)
@@ -26,5 +30,10 @@ Questions in AlgoExpert are categorized by data structure and then by difficulty
 ## [LeetCode](/LeetCode)
 Questions in LeetCode are categorized by difficulty. 
 The number in the title of the question represents the question number in LeetCode.
+
+## Questions categorized by company
+### Facebook
+### Google
+### Amazon
 
 Updating.
