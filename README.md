@@ -1,4 +1,4 @@
-# coding_questions
+# Coding Questions
 Coding interview questions (LeetCode &amp; AlgoExpert)
 
 All codes are written in Python.
