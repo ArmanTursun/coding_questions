@@ -11,7 +11,7 @@ Questions in AlgoExpert are categorized by data structure and then by difficulty
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 | 1 | [Two Number Sum](https://github.com/ArmanTursun/coding_questions/blob/17ecbeadc0640296485ca312eabe50dd888cefa3/AlgoExpert/Arrays/Easy/Two%20Number%20Sum.py) | Easy |
-| 2 | [Validate Subsequence](/AlgoExpert/Arrays/East/Validate Subsequence) | Easy |
+| 2 | [Validate Subsequence](/AlgoExpert/Arrays/East/Validate%20Subsequence.py) | Easy |
 
 ### [Binary Search Trees](/AlgoExpert/Binary Search Trees)
 ### [Binary Trees](/AlgoExpert/Binary Trees)
