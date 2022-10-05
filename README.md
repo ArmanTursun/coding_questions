@@ -1,5 +1,5 @@
 # Coding Questions
-Coding interview questions (LeetCode &amp; AlgoExpert)
+Coding interview questions ([LeetCode](#leetcode) &amp; [AlgoExpert](#algoexpert))
 
 All codes are written in Python.
 Feel free to add solutions with other languages.
@@ -15,7 +15,7 @@ Questions in AlgoExpert are categorized by data structure and then by difficulty
 ### [Binary Search Trees](/AlgoExpert/Binary Search Trees)
 ### [Binary Trees](/AlgoExpert/Binary Trees)
 ### [Dynamic Programming](/AlgoExpert/Dynamic Programming)
-### [Famous Algorithms](AlgoExpert/Famous Algorithms)
+### [Famous Algorithms](/AlgoExpert/Famous Algorithms)
 ### [Graphs](/AlgoExpert/Graphs)
 ### [Greedy Algorithms](/AlgoExpert/Greedy Algorithms)
 ### [Heaps](/AlgoExpert/Heaps)
