@@ -7,6 +7,8 @@ Feel free to add solutions with other languages.
 ## [AlgoExpert](/AlgoExpert)
 Questions in AlgoExpert are categorized by data structure and then by difficulty.
 
+Since codes are copied from various editors, they may not be run directly. Treat them as `Pseudocodes`.
+
 ### [Arrays](/AlgoExpert/Arrays)
 | # | Title | Difficulty | Solution |
 |---| ----- | ---------- | -------- |
