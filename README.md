@@ -8,10 +8,10 @@ Feel free to add solutions with other languages.
 Questions in AlgoExpert are categorized by data structure and then by difficulty.
 
 ### [Arrays](/AlgoExpert/Arrays)
-| # | Title | Difficulty |
-|---| ----- | ---------- |
-| 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum.py) | Easy |
-| 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence.py) | Easy |
+| # | Title | Difficulty | Solution |
+|---| ----- | ---------- | -------- |
+| 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) |
+| 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
