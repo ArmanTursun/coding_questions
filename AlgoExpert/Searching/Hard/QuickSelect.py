@@ -18,7 +18,7 @@ def partition(array, start, end, k):
         p = start
         left = p + 1
         right = end
-        while left <= right:
+        while left <= right:  ## Similar to QuickSearch
             if array[left] > array[p] and array[right] < array[p]:
                 swap(left, right, array)
             if array[left] <= array[p]:

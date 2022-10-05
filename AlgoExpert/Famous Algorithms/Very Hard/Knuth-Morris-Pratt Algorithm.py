@@ -10,6 +10,7 @@
 # True
 
 def knuthMorrisPrattAlgorithm(string, substring):
+    ## Very famous algorithm, if not familiar, please refer to wiki.
     pattern = buildPattern(substring)
     return doesMatch(string, substring, pattern)
 
