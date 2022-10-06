@@ -54,23 +54,23 @@ The number in the title of the question represents the question number in LeetCo
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
 
 ### Google
-| # | Title | Difficulty | Solution |
-|---| ----- | ---------- | -------- |
+| # | Title | Difficulty | Solution | Tag |
+|---| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
 
 ### Amazon
-| # | Title | Difficulty | Solution |
-|---| ----- | ---------- | -------- |
+| # | Title | Difficulty | Solution | Tag |
+|---| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
 
 ### Apple
-| # | Title | Difficulty | Solution |
-|---| ----- | ---------- | -------- |
+| # | Title | Difficulty | Solution | Tag |
+|---| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
 
 ### Microsoft
-| # | Title | Difficulty | Solution |
-|---| ----- | ---------- | -------- |
+| # | Title | Difficulty | Solution | Tag |
+|---| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
 
 
