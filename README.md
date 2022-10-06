@@ -24,8 +24,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 ### [Dynamic Programming](/AlgoExpert/Dynamic%20Programming)
 ### [Famous Algorithms](/AlgoExpert/Famous%20Algorithms)
-| # | Title | Difficulty | Solution |
-|---| ----- | ---------- | -------- |
+| # | Title | Difficulty | Solution | Companies |
+|---| ----- | ---------- | -------- | --------- |
 | 1 | [Knuth-Morris-Pratt Algorithm](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm) | Very Hard | [Python](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm/Knuth-Morris-Pratt%20Algorithm.py) |
 
 ### [Graphs](/AlgoExpert/Graphs)
@@ -34,8 +34,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 ### [Linked Lists](/AlgoExpert/Linked%20Lists)
 ### [Recursion](/AlgoExpert/Recursion)
 ### [Searching](/AlgoExpert/Searching)
-| # | Title | Difficulty | Solution |
-|---| ----- | ---------- | -------- |
+| # | Title | Difficulty | Solution | Companies |
+|---| ----- | ---------- | -------- | --------- |
 | 1 | [QuickSelect](/AlgoExpert/Searching/Hard/QuickSelect) | Hard | [Python](/AlgoExpert/Searching/Hard/QuickSelect/QuickSelect.py) |
 
 ### [Sorting](/AlgoExpert/Sorting)
