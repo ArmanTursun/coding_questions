@@ -16,3 +16,33 @@
 
 # Sample Output
 # True
+
+def isValidSubsequence(array, sequence):
+    # Write your code here.
+    i, j = 0, 0
+
+    while j < len(sequence) and i < len(array):
+        if array[i] == sequence[j]:
+            j += 1
+        i += 1
+
+    return j == len(sequence)
+
+## T = O(n) ; S = O(1)
+
+## Use DP, longest common subsequence. Make it worse, but good to practice DP.
+
+def isValidSubsequence(array, sequence):
+    # Write your code here.
+    dp = [[0] * (len(sequence) + 1) for _ in range(len(array) + 1)]
+
+    for i in range(1, len(array) + 1):
+        for j in range(1, len(sequence) + 1):
+            if array[i-1] == sequence[j-1]:
+                dp[i][j] = dp[i-1][j-1] + 1
+            else:
+                dp[i][j] = max(dp[i][j-1], dp[i-1][j])
+
+    return True if dp[len(array)][len(sequence)] == len(sequence) else False
+
+## T = O(mn) ; S = O(mn)
