@@ -17,8 +17,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | # | Title | Difficulty | Solution | Companies | 
 | -- | ----- | ---------- | -------- | --------- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
-| 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) |
-| 3 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) |
+| 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) | [Google](#google), [Amazon](#amazon) |
+| 3 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | [Facebook](#facebook), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
@@ -50,28 +50,34 @@ The number in the title of the question represents the question number in LeetCo
 ## Questions categorized by company
 ### Facebook
 | # | Title | Difficulty | Solution | Tag |
-|---| ----- |------------| -------- | --- |
+|--| ----- |------------| -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
+| 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
+| 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) | Array |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
+| 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) | Array |
+| 3 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
-|---| ----- | ---------- | -------- | --- |
+|--| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
+| 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
-|---| ----- | ---------- | -------- | --- |
+|--| ----- | ---------- | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
+| 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 
 
 Updating.
