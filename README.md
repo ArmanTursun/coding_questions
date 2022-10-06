@@ -81,7 +81,7 @@ The number in the title of the question represents the question number in LeetCo
 | # | Title | Solution | Companies | Tag |
 |---| ----- | -------- | --------- | --- |
 
-## Questions categorized by company
+# Questions categorized by company
 ### Facebook
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- |------------| -------- | --- |
