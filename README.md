@@ -16,7 +16,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 ### [Arrays](/AlgoExpert/Arrays)
 | # | Title | Difficulty | Solution | Companies | 
 | -- | ----- | ---------- | -------- | --------- |
-| 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | #facebook, #google, #amazon, #apple, #microsoft |
+| 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) |
 | 3 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) |
 
