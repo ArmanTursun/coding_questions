@@ -84,7 +84,7 @@ The number in the title of the question represents the question number in LeetCo
 # Questions categorized by company
 ### Facebook
 | # | Title | Difficulty | Solution | Tag |
-|--| ----- |------------| -------- | --- |
+| -- | ----- | ------------ | -------- | --- |
 | 1 | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
 | 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 
