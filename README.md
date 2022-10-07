@@ -5,7 +5,7 @@ Coding interview questions ([LeetCode](#leetcode) &amp; [AlgoExpert](#algoexpert
 - Feel free to add solutions with other languages.
 - Since codes are copied from various editors, they may not be run directly. Treat them as `Pseudocodes`.
 
-## How to practice coding
+## How to practice coding (based on my experience)
 - The questions in AlgoExpert are kindly selected questions that cover almost all basic data structures and algorithms, so they are really worth being practiced before interview.
 - The questions in LeetCode are provided by official team and all users based on their interview experiences, it contains over 2000 questions.
 - I think the best way to practice is first finish all problems in AlgoExpert and then go on with LeetCode.
