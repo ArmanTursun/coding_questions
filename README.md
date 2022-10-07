@@ -10,7 +10,7 @@ Coding interview questions ([LeetCode](#leetcode) &amp; [AlgoExpert](#algoexpert
 - The questions in LeetCode are provided by official team and all users based on their interview experiences, it contains over 2000 questions.
 - I think the best way to practice is first finish all problems in AlgoExpert and then go on with LeetCode.
 - Watch video explanation on AlgoExpert and try by yourself. Then see the solutions of other users and also the discussion of the same question on LeetCode.
-- Organize all solutions based on their time and space complexity, then compare solutions using different data structures and algorithms. Since there would be follow-up questions in actual interview that usually would be the improvements of time and space complexity with better data structure and algorithm.
+- Organize all solutions based on their time and space complexity, then compare solutions using different data structures and algorithms. Since there would be follow-up questions in actual interview that most likely would be the improvements of time and space complexity with better data structure and algorithm.
 - I would say spending one hour for two easy problems and for one medium problem, or one to two hours for a hard problem would be proper. Just dig deeper into one problem.
 - Don't waste your time on figuring out what kind of data structure or algorithm should be used. If you don't have any idea within 25 minute, just skip to the solution. 
 
