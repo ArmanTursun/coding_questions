@@ -1,3 +1,5 @@
+# Easy
+
 # There's an algotithms tournament taking place in which teams of programmers compete aggains each other to solve algorithmic
 # problems as fast as possible. Teams compete in a round robin, where each team faces off against all other teams.
 # Only two reams compete aginst each other at a time, and for each competetion, one team is designated the home team, while
