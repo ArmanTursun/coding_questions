@@ -38,8 +38,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
-|---|------------------------------------------------------| ---------- | -------- | --------- |
+|--|------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Branch Sums](/AlgoExpert/Arrays/Easy/Branch%20Sums) | Easy | [Python](/AlgoExpert/Arrays/Easy/Branch%20Sums/Branch%20Sums.py) |  |
+| 2 | [Node Depths](/AlgoExpert/Arrays/Easy/Node%20Depths) | Easy | [Python](/AlgoExpert/Arrays/Easy/Node%20Depths/Node%20Depths) |  |
 
 ### [Dynamic Programming](/AlgoExpert/Dynamic%20Programming)
 | # | Title | Difficulty | Solution | Companies |
