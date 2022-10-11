@@ -34,13 +34,13 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
 |---|----------------------------------------------------------------------------------------| ---------- | -------- | --------- |
-| 1 | [Find Closest Value in BST](/AlgoExpert/Binary Search Trees/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Binary Search Trees/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Microsoft](#microsoft) |
+| 1 | [Find Closest Value in BST](/AlgoExpert/Binary%20Search%20Trees/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Binary%20Search%20Tree/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Microsoft](#microsoft) |
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
 |--|------------------------------------------------------| ---------- | -------- | --------- |
-| 1 | [Branch Sums](/AlgoExpert/Binary Trees/Easy/Branch%20Sums) | Easy | [Python](/AlgoExpert/Binary Trees/Easy/Branch%20Sums/Branch%20Sums.py) |  |
-| 2 | [Node Depths](/AlgoExpert/Binary Trees/Easy/Node%20Depths) | Easy | [Python](/AlgoExpert/Binary Trees/Easy/Node%20Depths/Node%20Depths) |  |
+| 1 | [Branch Sums](/AlgoExpert/Binary%20Trees/Easy/Branch%20Sums) | Easy | [Python](/AlgoExpert/Binary%20Trees/Easy/Branch%20Sums/Branch%20Sums.py) |  |
+| 2 | [Node Depths](/AlgoExpert/Binary%20Trees/Easy/Node%20Depths) | Easy | [Python](/AlgoExpert/Binary%20Trees/Easy/Node%20Depths/Node%20Depths) |  |
 
 ### [Dynamic Programming](/AlgoExpert/Dynamic%20Programming)
 | # | Title | Difficulty | Solution | Companies |
