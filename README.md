@@ -32,8 +32,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 5 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                                                  | Difficulty | Solution | Companies |
+|---|----------------------------------------------------------------------------------------| ---------- | -------- | --------- |
+| 1 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Microsoft](#microsoft) |
+
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title | Difficulty | Solution | Companies |
 |---| ----- | ---------- | -------- | --------- |
@@ -100,6 +102,7 @@ The number in the title of the question represents the question number in LeetCo
 | 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
+| 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -108,6 +111,7 @@ The number in the title of the question represents the question number in LeetCo
 | 2 | [Validate Subsequence](/AlgoExpert/Arrays/Easy/Validate%20Subsequence) | Easy | [Python](/AlgoExpert/Arrays/Easy/Validate%20Subsequence/Validate%20Subsequence.py) | Array |
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
+| 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -117,6 +121,7 @@ The number in the title of the question represents the question number in LeetCo
 | 3 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 | 4 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 5 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
+| 6 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -125,6 +130,7 @@ The number in the title of the question represents the question number in LeetCo
 | 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
+| 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -133,6 +139,7 @@ The number in the title of the question represents the question number in LeetCo
 | 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
+| 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 
 
 Updating.
