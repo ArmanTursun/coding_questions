@@ -51,8 +51,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 1 | [Knuth-Morris-Pratt Algorithm](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm) | Very Hard | [Python](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm/Knuth-Morris-Pratt%20Algorithm.py) |
 
 ### [Graphs](/AlgoExpert/Graphs)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                                             | Difficulty | Solution | Companies |
+|---|-----------------------------------------------------------------------------------| -- | -------- | --------- |
+| 1 | [Depth First Search](/AlgoExpert/Famous%20Algorithms/Easy/Depth%20First%20Search) | Easy | [Python](/AlgoExpert/Famous%20Algorithms/Easy/Depth%20First%20Search/Depth%20First%20Search.py) |
+
 ### [Greedy Algorithms](/AlgoExpert/Greedy%20Algorithms)
 | # | Title | Difficulty | Solution | Companies |
 |---| ----- | ---------- | -------- | --------- |
