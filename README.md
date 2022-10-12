@@ -57,8 +57,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 ### [Greedy Algorithms](/AlgoExpert/Greedy%20Algorithms)
 | # | Title                                                                                 | Difficulty | Solution | Companies |
-|---|---------------------------------------------------------------------------------------| ---------- | -------- | --------- |
+|--|---------------------------------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Minimum Waiting Time](/AlgoExpert/Greedy%20Algorithms/Easy/Minimum%20Waiting%20Time) | Easy | [Python](/AlgoExpert/Greedy%20Algorithms/Easy/Minimum%20Waiting%20Time/Minimum%20Waiting%20Time.py) |
+| 2 | [Class Photos](/AlgoExpert/Greedy%20Algorithms/Easy/Class%20Photos) | Easy | [Python](/AlgoExpert/Greedy%20Algorithms/Easy/Class%20Photos/Class%20Photos.py) |
 
 ### [Heaps](/AlgoExpert/Heaps)
 | # | Title | Difficulty | Solution | Companies |
