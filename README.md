@@ -76,8 +76,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 1 | [QuickSelect](/AlgoExpert/Searching/Hard/QuickSelect) | Hard | [Python](/AlgoExpert/Searching/Hard/QuickSelect/QuickSelect.py) |
 
 ### [Sorting](/AlgoExpert/Sorting)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                | Difficulty | Solution | Companies |
+|---|------------------------------------------------------| ---------- | -------- | --------- |
+| 1 | [Bubble Sort](/AlgoExpert/Sorting/Easy/Bubble%20Sort) | Easy | [Python](/AlgoExpert/Sorting/Easy/Bubble%20Sort/Bubble%20Sort.py) |
+
 ### [Stacks](/AlgoExpert/Stacks)
 | # | Title | Difficulty | Solution | Companies |
 |---| ----- | ---------- | -------- | --------- |
