@@ -40,3 +40,5 @@ def minimumWaitingTime(queries):
         total_wait += next_wait
         next_wait += cur_last
     return total_wait
+
+# T = O(nlog(n)); S = O(1)

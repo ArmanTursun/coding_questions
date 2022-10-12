@@ -31,3 +31,5 @@ def classPhotos(redShirtHeights, blueShirtHeights):
             return False
 
     return True
+
+# T = O(nlog(n)); S = O(1)

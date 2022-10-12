@@ -20,3 +20,6 @@ def bubbleSort(array):
         if flag:
             break
     return array
+
+# Average and Worst: T = O(n^2); S = O(1)
+# Best: T = O(n); S = O(1)
