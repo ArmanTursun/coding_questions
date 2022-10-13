@@ -60,7 +60,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |--|---------------------------------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Minimum Waiting Time](/AlgoExpert/Greedy%20Algorithms/Easy/Minimum%20Waiting%20Time) | Easy | [Python](/AlgoExpert/Greedy%20Algorithms/Easy/Minimum%20Waiting%20Time/Minimum%20Waiting%20Time.py) |
 | 2 | [Class Photos](/AlgoExpert/Greedy%20Algorithms/Easy/Class%20Photos) | Easy | [Python](/AlgoExpert/Greedy%20Algorithms/Easy/Class%20Photos/Class%20Photos.py) |
-| 3 | [Class Photos](/AlgoExpert/Greedy%20Algorithms/Easy/Tandem%20Bicycle) | Easy | [Python](/AlgoExpert/Greedy%20Algorithms/Easy/Tandem%20Bicycle/Tandem%20Bicycle.py) |
+| 3 | [Tandem Bicycle](/AlgoExpert/Greedy%20Algorithms/Easy/Tandem%20Bicycle) | Easy | [Python](/AlgoExpert/Greedy%20Algorithms/Easy/Tandem%20Bicycle/Tandem%20Bicycle.py) |
 
 ### [Heaps](/AlgoExpert/Heaps)
 | # | Title | Difficulty | Solution | Companies |
