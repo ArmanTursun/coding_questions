@@ -72,8 +72,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |---| ----- | ---------- | -------- | --------- |
 ### [Searching](/AlgoExpert/Searching)
 | # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
-| 1 | [QuickSelect](/AlgoExpert/Searching/Hard/QuickSelect) | Hard | [Python](/AlgoExpert/Searching/Hard/QuickSelect/QuickSelect.py) |
+|--| ----- | ---------- | -------- | --------- |
+| 1 | [Binary Search](/AlgoExpert/Searching/Easy/Binary%20Search) | Easy | [Python](/AlgoExpert/Searching/Easy/Binary%20Search/Binary%20Search.py) |
+| 2 | [QuickSelect](/AlgoExpert/Searching/Hard/QuickSelect) | Hard | [Python](/AlgoExpert/Searching/Hard/QuickSelect/QuickSelect.py) |
 
 ### [Sorting](/AlgoExpert/Sorting)
 | # | Title                                                | Difficulty | Solution | Companies |
