@@ -76,7 +76,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | # | Title | Difficulty | Solution | Companies |
 |--| ----- | ---------- | -------- | --------- |
 | 1 | [Binary Search](/AlgoExpert/Searching/Easy/Binary%20Search) | Easy | [Python](/AlgoExpert/Searching/Easy/Binary%20Search/Binary%20Search.py) |
-| 2 | [QuickSelect](/AlgoExpert/Searching/Hard/QuickSelect) | Hard | [Python](/AlgoExpert/Searching/Hard/QuickSelect/QuickSelect.py) |
+| 2 | [Find Three Largest Numbers](/AlgoExpert/Searching/Easy/Find%20Three%20Largest%20Numbers) | Easy | [Python](/AlgoExpert/Searching/Easy/Find%20Three%20Largest%20Numbers/Find%20Three%20Largest%20Numbers.py) |
+| 3 | [QuickSelect](/AlgoExpert/Searching/Hard/QuickSelect) | Hard | [Python](/AlgoExpert/Searching/Hard/QuickSelect/QuickSelect.py) |
 
 ### [Sorting](/AlgoExpert/Sorting)
 | # | Title                                                | Difficulty | Solution | Companies |
