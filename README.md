@@ -98,6 +98,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |--|-----------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Palindrome Check](/AlgoExpert/Strings/Easy/Palindrome%20Check) | Easy | [Python](/AlgoExpert/Strings/Easy/Palindrome%20Check/Palindrome%20Check.py) |
 | 2 | [Caesar Cipher Encryptor](/AlgoExpert/Strings/Easy/Caesar%20Cipher%20Encryptor) | Easy | [Python](/AlgoExpert/Strings/Easy/Caesar%20Cipher%20Encryptor/Caesar%20Cipher%20Encryptor.py) |
+| 3 | [Run Length Encoding](/AlgoExpert/Strings/Easy/Run%20Length%20Encoding) | Easy | [Python](/AlgoExpert/Strings/Easy/Run%20Length%20Encoding/Run%20Length%20Encoding.py) |
 
 ### [Tries](/AlgoExpert/Tries)
 | # | Title | Difficulty | Solution | Companies |
