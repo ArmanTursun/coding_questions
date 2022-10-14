@@ -94,8 +94,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | # | Title | Difficulty | Solution | Companies |
 |---| ----- | ---------- | -------- | --------- |
 ### [Strings](/AlgoExpert/Strings)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                           | Difficulty | Solution | Companies |
+|---|-----------------------------------------------------------------| ---------- | -------- | --------- |
+| 1 | [Palindrome Check](/AlgoExpert/Strings/Easy/Palindrome%20Check) | Easy | [Python](/AlgoExpert/Strings/Easy/Palindrome%20Check/Palindrome%20Check.py) |
+
 ### [Tries](/AlgoExpert/Tries)
 | # | Title | Difficulty | Solution | Companies |
 |---| ----- | ---------- | -------- | --------- |
