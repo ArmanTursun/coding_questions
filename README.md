@@ -100,6 +100,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 2 | [Caesar Cipher Encryptor](/AlgoExpert/Strings/Easy/Caesar%20Cipher%20Encryptor) | Easy | [Python](/AlgoExpert/Strings/Easy/Caesar%20Cipher%20Encryptor/Caesar%20Cipher%20Encryptor.py) |
 | 3 | [Run Length Encoding](/AlgoExpert/Strings/Easy/Run%20Length%20Encoding) | Easy | [Python](/AlgoExpert/Strings/Easy/Run%20Length%20Encoding/Run%20Length%20Encoding.py) |
 | 4 | [Generate Document](/AlgoExpert/Strings/Easy/Generate%20Document) | Easy | [Python](/AlgoExpert/Strings/Easy/Generate%20Document/Generate%20Document.py) |
+| 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Tries](/AlgoExpert/Tries)
 | # | Title | Difficulty | Solution | Companies |
@@ -128,6 +129,7 @@ The number in the title of the question represents the question number in LeetCo
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
+| 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -137,6 +139,7 @@ The number in the title of the question represents the question number in LeetCo
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
+| 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -147,6 +150,7 @@ The number in the title of the question represents the question number in LeetCo
 | 4 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 5 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 6 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
+| 7 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -155,7 +159,7 @@ The number in the title of the question represents the question number in LeetCo
 | 2 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | Array |
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
-| 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
+| 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -165,6 +169,7 @@ The number in the title of the question represents the question number in LeetCo
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
+| 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 
 
 Updating.
