@@ -72,8 +72,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 ### [Recursion](/AlgoExpert/Recursion)
 | # | Title                                                       | Difficulty | Solution | Companies |
-|---|-------------------------------------------------------------| ---------- | -------- | --------- |
+|--|-------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Nth Fibonacci](/AlgoExpert/Recursion/Easy/Nth%20Fibonacci) | Easy | [Python](/AlgoExpert/Recursion/Easy/Nth%20Fibonacci/Nth%20Fibonacci.py) |
+| 2 | [Product Sum](/AlgoExpert/Recursion/Easy/Product%20Sum) | Easy | [Python](/AlgoExpert/Recursion/Easy/Product%20Sum/Product%20Sum.py) |
 
 ### [Searching](/AlgoExpert/Searching)
 | # | Title | Difficulty | Solution | Companies |
