@@ -30,6 +30,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 3 | [Sorted Squared Array](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array) | Easy | [Python](/AlgoExpert/Arrays/Easy/Sorted%20Squared%20Array/Sorted%20Squared%20Array.py) | [Facebook](#facebook), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 4 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 5 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
+| 6 | [Non-Constructible Change](/AlgoExpert/Arrays/Medium/Three%20Number%20Sum) | Medium | [Python](/AlgoExpert/Arrays/Medium/Three%20Number%20Sum/Three%20Number%20Sum.py) |  |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
