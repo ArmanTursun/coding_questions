@@ -32,6 +32,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 5 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 6 | [Three Number Sum](/AlgoExpert/Arrays/Medium/Three%20Number%20Sum) | Medium | [Python](/AlgoExpert/Arrays/Medium/Three%20Number%20Sum/Three%20Number%20Sum.py) |  |
 | 7 | [Smallest Difference](/AlgoExpert/Arrays/Medium/Smallest%20Difference) | Medium | [Python](/AlgoExpert/Arrays/Medium/Smallest%20Difference/Smallest%20Difference.py) |  |
+| 8 | [Move Element To End](/AlgoExpert/Arrays/Medium/Move%20Element%20To%20End) | Medium | [Python](/AlgoExpert/Arrays/Medium/Move%20Element%20To%20End/Move%20Element%20To%20End.py) |  |
+| 9 | [Monotonic Array](/AlgoExpert/Arrays/Medium/Monotonic%20Array) | Medium | [Python](/AlgoExpert/Arrays/Medium/Monotonic%20Array/Monotonic%20Array.py) |  |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
