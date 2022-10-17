@@ -37,6 +37,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 10 | [Spiral Traverse](/AlgoExpert/Arrays/Medium/Spiral%20Traverse) | Medium | [Python](/AlgoExpert/Arrays/Medium/Spiral%20Traverse/Spiral%20Traverse.py) |  |
 | 11 | [Longest Peak](/AlgoExpert/Arrays/Medium/Longest%20Peak) | Medium | [Python](/AlgoExpert/Arrays/Medium/Longest%20Peak/Longest%20Peak.py) |  |
 | 12 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
+| 13 | [First Duplicate Value](/AlgoExpert/Arrays/Medium/First%20Duplicate%20Value) | Medium | [Python](/AlgoExpert/Arrays/Medium/First%20Duplicate%20Value/First%20Duplicate%20Value.py) |  |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
