@@ -36,6 +36,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 9 | [Monotonic Array](/AlgoExpert/Arrays/Medium/Monotonic%20Array) | Medium | [Python](/AlgoExpert/Arrays/Medium/Monotonic%20Array/Monotonic%20Array.py) |  |
 | 10 | [Spiral Traverse](/AlgoExpert/Arrays/Medium/Spiral%20Traverse) | Medium | [Python](/AlgoExpert/Arrays/Medium/Spiral%20Traverse/Spiral%20Traverse.py) |  |
 | 11 | [Longest Peak](/AlgoExpert/Arrays/Medium/Longest%20Peak) | Medium | [Python](/AlgoExpert/Arrays/Medium/Longest%20Peak/Longest%20Peak.py) |  |
+| 12 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
@@ -136,7 +137,8 @@ The number in the title of the question represents the question number in LeetCo
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
-| 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
+| 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | Strings, Hashmap |
+| 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -147,6 +149,7 @@ The number in the title of the question represents the question number in LeetCo
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
+| 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -158,6 +161,7 @@ The number in the title of the question represents the question number in LeetCo
 | 5 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 6 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 7 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
+| 8 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -167,6 +171,7 @@ The number in the title of the question represents the question number in LeetCo
 | 3 | [Tournament Winner](/AlgoExpert/Arrays/Easy/Tournament%20Winner) | Easy | [Python](/AlgoExpert/Arrays/Easy/Tournament%20Winner/Tournament%20Winner.py) | Array |
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
+| 6 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -177,6 +182,7 @@ The number in the title of the question represents the question number in LeetCo
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
+| 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 
 
 Updating.
