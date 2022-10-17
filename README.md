@@ -35,6 +35,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 8 | [Move Element To End](/AlgoExpert/Arrays/Medium/Move%20Element%20To%20End) | Medium | [Python](/AlgoExpert/Arrays/Medium/Move%20Element%20To%20End/Move%20Element%20To%20End.py) |  |
 | 9 | [Monotonic Array](/AlgoExpert/Arrays/Medium/Monotonic%20Array) | Medium | [Python](/AlgoExpert/Arrays/Medium/Monotonic%20Array/Monotonic%20Array.py) |  |
 | 10 | [Spiral Traverse](/AlgoExpert/Arrays/Medium/Spiral%20Traverse) | Medium | [Python](/AlgoExpert/Arrays/Medium/Spiral%20Traverse/Spiral%20Traverse.py) |  |
+| 11 | [Longest Peak](/AlgoExpert/Arrays/Medium/Longest%20Peak) | Medium | [Python](/AlgoExpert/Arrays/Medium/Longest%20Peak/Longest%20Peak.py) |  |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
