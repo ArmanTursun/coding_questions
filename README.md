@@ -38,6 +38,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 11 | [Longest Peak](/AlgoExpert/Arrays/Medium/Longest%20Peak) | Medium | [Python](/AlgoExpert/Arrays/Medium/Longest%20Peak/Longest%20Peak.py) |  |
 | 12 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 13 | [First Duplicate Value](/AlgoExpert/Arrays/Medium/First%20Duplicate%20Value) | Medium | [Python](/AlgoExpert/Arrays/Medium/First%20Duplicate%20Value/First%20Duplicate%20Value.py) |  |
+| 14 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Binary Search Trees](/AlgoExpert/Binary%20Search%20Trees)
 | # | Title                                                                                  | Difficulty | Solution | Companies |
@@ -140,6 +141,7 @@ The number in the title of the question represents the question number in LeetCo
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | Strings, Hashmap |
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
+| 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -151,6 +153,7 @@ The number in the title of the question represents the question number in LeetCo
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
+| 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -163,6 +166,7 @@ The number in the title of the question represents the question number in LeetCo
 | 6 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 7 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 8 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
+| 9 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -173,6 +177,7 @@ The number in the title of the question represents the question number in LeetCo
 | 4 | [Non-Constructible Change](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change) | Easy | [Python](/AlgoExpert/Arrays/Easy/Non%20Constructible%20Change/Non%20Constructible%20Change.py) | Array, Bit |
 | 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 6 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
+| 7 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -184,6 +189,7 @@ The number in the title of the question represents the question number in LeetCo
 | 5 | [Find Closest Value in BST](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Arrays/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | BST |
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
+| 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 
 
 Updating.
