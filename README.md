@@ -45,6 +45,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |--|----------------------------------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Find Closest Value in BST](/AlgoExpert/Binary%20Search%20Trees/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Binary%20Search%20Trees/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Microsoft](#microsoft) |
 | 2 | [BST Construction](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Construction) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Construction/BST%20Construction.py) |  |
+| 3 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
@@ -143,6 +144,7 @@ The number in the title of the question represents the question number in LeetCo
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | Strings, Hashmap |
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
+| 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -155,6 +157,7 @@ The number in the title of the question represents the question number in LeetCo
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
+| 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -168,6 +171,7 @@ The number in the title of the question represents the question number in LeetCo
 | 7 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 8 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 9 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
+| 10 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -179,6 +183,7 @@ The number in the title of the question represents the question number in LeetCo
 | 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 6 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 7 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
+| 8 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -191,6 +196,7 @@ The number in the title of the question represents the question number in LeetCo
 | 6 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | strings, hashmap |
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
+| 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 
 
 Updating.
