@@ -46,6 +46,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 1 | [Find Closest Value in BST](/AlgoExpert/Binary%20Search%20Trees/Easy/Find%20Closest%20Value%20in%20BST) | Easy | [Python](/AlgoExpert/Binary%20Search%20Trees/Easy/Find%20Closest%20Value%20in%20BST/Find%20Closest%20Value%20in%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Microsoft](#microsoft) |
 | 2 | [BST Construction](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Construction) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Construction/BST%20Construction.py) |  |
 | 3 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
+| 4 | [BST Traversal](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal/BST%20Traversal.py) |  |
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
