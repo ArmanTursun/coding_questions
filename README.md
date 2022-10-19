@@ -47,6 +47,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 2 | [BST Construction](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Construction) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Construction/BST%20Construction.py) |  |
 | 3 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 4 | [BST Traversal](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal/BST%20Traversal.py) |  |
+| 5 | [Min Height BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Min%20Height%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Min%20Height%20BST/Min%20Height%20BST.py) |  |
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
