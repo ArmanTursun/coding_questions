@@ -48,6 +48,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 3 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 4 | [BST Traversal](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal/BST%20Traversal.py) |  |
 | 5 | [Min Height BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Min%20Height%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Min%20Height%20BST/Min%20Height%20BST.py) |  |
+| 6 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
@@ -147,6 +148,7 @@ The number in the title of the question represents the question number in LeetCo
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
+| 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -160,6 +162,7 @@ The number in the title of the question represents the question number in LeetCo
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
+| 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -174,6 +177,7 @@ The number in the title of the question represents the question number in LeetCo
 | 8 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 9 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 10 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
+| 11 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -186,6 +190,7 @@ The number in the title of the question represents the question number in LeetCo
 | 6 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 7 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 8 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
+| 9 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -199,6 +204,7 @@ The number in the title of the question represents the question number in LeetCo
 | 7 | [Array of Products](/AlgoExpert/Arrays/Medium/Array%20of%20Products) | Medium | [Python](/AlgoExpert/Arrays/Medium/Array%20of%20Products/Array%20of%20Products.py) | Array |
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
+| 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 
 
 Updating.
