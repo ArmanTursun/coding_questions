@@ -74,6 +74,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |---|-----------------------------------------------------------------------------------| -- | -------- | --------- |
 | 1 | [Depth First Search](/AlgoExpert/Graphs/Easy/Depth%20First%20Search) | Easy | [Python](/AlgoExpert/Graphs/Easy/Depth%20First%20Search/Depth%20First%20Search.py) |
 | 2 | [Breadth First Search](/AlgoExpert/Graphs/Medium/Breadth%20First%20Search) | Medium | [Python](/AlgoExpert/Graphs/Easy/Breadth%20First%20Search/Breadth%20First%20Search.py) |
+| 3 | [Youngest Common Ancestor](/AlgoExpert/Graphs/Medium/Youngest%20Common%20Ancestor) | Medium | [Python](/AlgoExpert/Binary%20Trees/Graphs/Youngest%20Common%20Ancestor/Youngest%20Common%20Ancestor.py) |  |
 
 ### [Greedy Algorithms](/AlgoExpert/Greedy%20Algorithms)
 | # | Title                                                                                 | Difficulty | Solution | Companies |
