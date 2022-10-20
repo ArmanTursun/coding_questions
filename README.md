@@ -49,6 +49,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 4 | [BST Traversal](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/BST%20Traversal/BST%20Traversal.py) |  |
 | 5 | [Min Height BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Min%20Height%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Min%20Height%20BST/Min%20Height%20BST.py) |  |
 | 6 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
+| 7 | [Reconstruct BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Reconstruct%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Reconstruct%20BST/Reconstruct%20BST.py) |  |
 
 ### [Binary Trees](/AlgoExpert/Binary%20Trees)
 | # | Title                                                | Difficulty | Solution | Companies |
