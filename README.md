@@ -55,7 +55,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | # | Title                                                | Difficulty | Solution | Companies |
 |--|------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Branch Sums](/AlgoExpert/Binary%20Trees/Easy/Branch%20Sums) | Easy | [Python](/AlgoExpert/Binary%20Trees/Easy/Branch%20Sums/Branch%20Sums.py) |  |
-| 2 | [Node Depths](/AlgoExpert/Binary%20Trees/Easy/Node%20Depths) | Easy | [Python](/AlgoExpert/Binary%20Trees/Easy/Node%20Depths/Node%20Depths) |  |
+| 2 | [Node Depths](/AlgoExpert/Binary%20Trees/Easy/Node%20Depths) | Easy | [Python](/AlgoExpert/Binary%20Trees/Easy/Node%20Depths/Node%20Depths.py) |  |
+| 3 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Dynamic Programming](/AlgoExpert/Dynamic%20Programming)
 | # | Title | Difficulty | Solution | Companies |
@@ -153,6 +154,7 @@ I also added index for similar questions for each problem since it may help for 
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
+| 11 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -167,6 +169,7 @@ I also added index for similar questions for each problem since it may help for 
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
+| 11 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -182,6 +185,7 @@ I also added index for similar questions for each problem since it may help for 
 | 9 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 10 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 11 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
+| 12 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -195,6 +199,7 @@ I also added index for similar questions for each problem since it may help for 
 | 7 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 8 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 9 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
+| 10 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -209,6 +214,7 @@ I also added index for similar questions for each problem since it may help for 
 | 8 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | Array, BST |
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
+| 11 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 
 
 Updating.
