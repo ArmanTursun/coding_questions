@@ -77,6 +77,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 2 | [Breadth First Search](/AlgoExpert/Graphs/Medium/Breadth%20First%20Search) | Medium | [Python](/AlgoExpert/Graphs/Easy/Breadth%20First%20Search/Breadth%20First%20Search.py) |
 | 3 | [Youngest Common Ancestor](/AlgoExpert/Graphs/Medium/Youngest%20Common%20Ancestor) | Medium | [Python](/AlgoExpert/Graphs/Medium/Youngest%20Common%20Ancestor/Youngest%20Common%20Ancestor.py) |  |
 | 4 | [Youngest Common Ancestor](/AlgoExpert/Graphs/Medium/Single%20Cycle%20Check) | Medium | [Python](/AlgoExpert/Graphs/Medium/Single%20Cycle%20Check/Single%20Cycle%20Check.py) |  |
+| 5 | [River Sizes](/AlgoExpert/Graphs/Medium/River%20Sizes) | Medium | [Python](/AlgoExpert/Graphs/Medium/River%20Sizes/River%20Sizes.py) |  |
 
 ### [Greedy Algorithms](/AlgoExpert/Greedy%20Algorithms)
 | # | Title                                                                                 | Difficulty | Solution | Companies |
