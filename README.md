@@ -66,8 +66,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |---| ----- | ---------- | -------- | --------- |
 ### [Famous Algorithms](/AlgoExpert/Famous%20Algorithms)
 | # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+|--| ----- | ---------- | -------- | --------- |
 | 1 | [Knuth-Morris-Pratt Algorithm](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm) | Very Hard | [Python](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm/Knuth-Morris-Pratt%20Algorithm.py) |
+| 2 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 
 ### [Graphs](/AlgoExpert/Graphs)
 | # | Title                                                                             | Difficulty | Solution | Companies |
@@ -159,6 +160,7 @@ I also added index for similar questions for each problem since it may help for 
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | 11 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
+| 12 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
 
 ### Google
 | # | Title | Difficulty | Solution | Tag |
@@ -174,6 +176,7 @@ I also added index for similar questions for each problem since it may help for 
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | 11 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
+| 12 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
 
 ### Amazon
 | # | Title | Difficulty | Solution | Tag |
@@ -190,6 +193,7 @@ I also added index for similar questions for each problem since it may help for 
 | 10 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 11 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | 12 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
+| 13 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
 
 ### Apple
 | # | Title | Difficulty | Solution | Tag |
@@ -204,6 +208,7 @@ I also added index for similar questions for each problem since it may help for 
 | 8 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 9 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | 10 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
+| 11 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
 
 ### Microsoft
 | # | Title | Difficulty | Solution | Tag |
@@ -219,6 +224,7 @@ I also added index for similar questions for each problem since it may help for 
 | 9 | [Validate BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Validate%20BST/Validate%20BST.py) | BST |
 | 10 | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | 11 | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
+| 12 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
 
 
 Updating.
