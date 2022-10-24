@@ -54,3 +54,5 @@ def taskAssignment(k, tasks):
     for i in range(k):
         result.append([taskWithIdx[i][0], taskWithIdx[-i - 1][0]])
     return result
+
+## T = O(nlog(n)); S = O(n)
