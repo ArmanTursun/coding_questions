@@ -93,8 +93,8 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 ### [Heaps](/AlgoExpert/Heaps)
 | # | Title                                                                       | Difficulty | Solution | Companies |
-|---|-----------------------------------------------------------------------------| ---------- | -------- | --------- |
-| 1 | [Min Heap Construction](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction) | Easy | [Python](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction/Min%20Heap%20Construction.py) |
+|---|-----------------------------------------------------------------------------|--------| -------- | --------- |
+| 1 | [Min Heap Construction](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction) | Medium | [Python](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction/Min%20Heap%20Construction.py) |
 
 ### [Linked Lists](/AlgoExpert/Linked%20Lists)
 | # | Title                                                                                                            | Difficulty | Solution | Companies |
