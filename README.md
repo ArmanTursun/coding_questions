@@ -92,8 +92,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 5 | [Valid Starting City](/AlgoExpert/Greedy%20Algorithms/Medium/Valid%20Starting%20City) | Medium | [Python](/AlgoExpert/Greedy%20Algorithms/Medium/Valid%20Starting%20City/Valid%20Starting%20City.py) |
 
 ### [Heaps](/AlgoExpert/Heaps)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                                       | Difficulty | Solution | Companies |
+|---|-----------------------------------------------------------------------------| ---------- | -------- | --------- |
+| 1 | [Min Heap Construction](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction) | Easy | [Python](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction/Min%20Heap%20Construction.py) |
+
 ### [Linked Lists](/AlgoExpert/Linked%20Lists)
 | # | Title                                                                                                            | Difficulty | Solution | Companies |
 |---|------------------------------------------------------------------------------------------------------------------| ---------- | -------- | --------- |
