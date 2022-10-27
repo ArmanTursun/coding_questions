@@ -98,8 +98,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 ### [Linked Lists](/AlgoExpert/Linked%20Lists)
 | # | Title                                                                                                            | Difficulty | Solution | Companies |
-|---|------------------------------------------------------------------------------------------------------------------| ---------- | -------- | --------- |
+|--|------------------------------------------------------------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Remove Duplicates From Linked List](/AlgoExpert/Linked%20Lists/Easy/Remove%20Duplicates%20From%20Linked%20List) | Easy | [Python](/AlgoExpert/Linked%20Lists/Easy/Remove%20Duplicates%20From%20Linked%20List/Remove%20Duplicates%20From%20Linked%20List.py) |
+| 2 | [Remove Duplicates From Linked List](/AlgoExpert/Linked%20Lists/Medium/Linked%20List%20Construction) | Medium | [Python](/AlgoExpert/Linked%20Lists/Medium/Linked%20List%20Construction/Linked%20List%20Construction.py) |
 
 ### [Recursion](/AlgoExpert/Recursion)
 | # | Title                                                       | Difficulty | Solution | Companies |
