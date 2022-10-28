@@ -125,6 +125,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 1 | [Bubble Sort](/AlgoExpert/Sorting/Easy/Bubble%20Sort) | Easy | [Python](/AlgoExpert/Sorting/Easy/Bubble%20Sort/Bubble%20Sort.py) |
 | 2 | [Select Sort](/AlgoExpert/Sorting/Easy/Select%20Sort) | Easy | [Python](/AlgoExpert/Sorting/Easy/Select%20Sort/Select%20Sort.py) |
 | 2 | [Insertion Sort](/AlgoExpert/Sorting/Easy/Insertion%20Sort) | Easy | [Python](/AlgoExpert/Sorting/Easy/Insertion%20Sort/Insertion%20Sort.py) |
+| 2 | [Insertion Sort](/AlgoExpert/Sorting/Hard/Quick%20Sort) | Hard | [Python](/AlgoExpert/Sorting/Hard/Quick%20Sort/Quick%20Sort.py) |
 
 ### [Stacks](/AlgoExpert/Stacks)
 | # | Title | Difficulty | Solution | Companies |
