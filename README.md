@@ -64,7 +64,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 ### [Dynamic Programming](/AlgoExpert/Dynamic%20Programming)
 | # | Title                                                                                                       | Difficulty | Solution | Companies |
 |---|-------------------------------------------------------------------------------------------------------------| ---------- | -------- | --------- |
-| 1 | [Min Number of Coins for Change](/AlgoExpert/Dynamic%20Programming/Medium/Min20%Number20%of20%Coins20%for20%Change) | Medium | [Python](/AlgoExpert/Dynamic%20Programming/Medium/Min20%Number20%of20%Coins20%for20%Change/Min20%Number20%of20%Coins20%for20%Change.py) |  |
+| 1 | [Min Number of Coins for Change](/AlgoExpert/Dynamic%20Programming/Medium/Min%20Number%20of%20Coins%20for%20Change) | Medium | [Python](/AlgoExpert/Dynamic%20Programming/Medium/Min%20Number%20of%20Coins%20for%20Change/Min%20Number%20of%20Coins%20for%20Change.py) |  |
 
 ### [Famous Algorithms](/AlgoExpert/Famous%20Algorithms)
 | # | Title | Difficulty | Solution | Companies |
