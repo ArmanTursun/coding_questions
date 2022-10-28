@@ -62,8 +62,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 6 | [Height Balanced Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Height%20Balanced%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Height%20Balanced%20Binary%20Tree/Height%20Balanced%20Binary%20Tree.py) |  |
 
 ### [Dynamic Programming](/AlgoExpert/Dynamic%20Programming)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                                                                       | Difficulty | Solution | Companies |
+|---|-------------------------------------------------------------------------------------------------------------| ---------- | -------- | --------- |
+| 1 | [Min Number of Coins for Change](/AlgoExpert/Dynamic%20Programming/Medium/Min20%Number20%of20%Coins20%for20%Change) | Medium | [Python](/AlgoExpert/Dynamic%20Programming/Medium/Min20%Number20%of20%Coins20%for20%Change/Min20%Number20%of20%Coins20%for20%Change.py) |
+
 ### [Famous Algorithms](/AlgoExpert/Famous%20Algorithms)
 | # | Title | Difficulty | Solution | Companies |
 |--| ----- | ---------- | -------- | --------- |
