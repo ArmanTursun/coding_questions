@@ -130,8 +130,10 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 6 | [Heap Sort](/AlgoExpert/Sorting/Hard/Heap%20Sort) | Hard | [Python](/AlgoExpert/Sorting/Hard/Heap%20Sort/Heap%20Sort.py) |
 
 ### [Stacks](/AlgoExpert/Stacks)
-| # | Title | Difficulty | Solution | Companies |
-|---| ----- | ---------- | -------- | --------- |
+| # | Title                                                                                  | Difficulty | Solution                                                                                   | Companies |
+|---|----------------------------------------------------------------------------------------| ---------- |--------------------------------------------------------------------------------------------| --------- |
+| 1 | [Min Max Stack Constructions](/AlgoExpert/Stacks/Medium/Min%20Max%20Stack%20Construction) | Medium | [Python](/AlgoExpert/Stacks/Medium/Min%20Max%20Stack%20Construction/Min%20Max%20Stack%20Construction.py) |
+
 ### [Strings](/AlgoExpert/Strings)
 | # | Title                                                           | Difficulty | Solution | Companies |
 |--|-----------------------------------------------------------------| ---------- | -------- | --------- |
