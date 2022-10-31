@@ -131,8 +131,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 ### [Stacks](/AlgoExpert/Stacks)
 | # | Title                                                                                  | Difficulty | Solution                                                                                   | Companies |
-|---|----------------------------------------------------------------------------------------| ---------- |--------------------------------------------------------------------------------------------| --------- |
+|--|----------------------------------------------------------------------------------------| ---------- |--------------------------------------------------------------------------------------------| --------- |
 | 1 | [Min Max Stack Constructions](/AlgoExpert/Stacks/Medium/Min%20Max%20Stack%20Construction) | Medium | [Python](/AlgoExpert/Stacks/Medium/Min%20Max%20Stack%20Construction/Min%20Max%20Stack%20Construction.py) |
+| 2 | [Sort Stack](/AlgoExpert/Stacks/Medium/Sort%20Stack) | Medium | [Python](/AlgoExpert/Stacks/Medium/Sort%20Stack/Sort%20Stack.py) |
 
 ### [Strings](/AlgoExpert/Strings)
 | # | Title                                                           | Difficulty | Solution | Companies |
