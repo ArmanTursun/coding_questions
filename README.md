@@ -143,6 +143,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 3 | [Run Length Encoding](/AlgoExpert/Strings/Easy/Run%20Length%20Encoding) | Easy | [Python](/AlgoExpert/Strings/Easy/Run%20Length%20Encoding/Run%20Length%20Encoding.py) |
 | 4 | [Generate Document](/AlgoExpert/Strings/Easy/Generate%20Document) | Easy | [Python](/AlgoExpert/Strings/Easy/Generate%20Document/Generate%20Document.py) |
 | 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
+| 6 | [First Non Repeating Character](/AlgoExpert/Strings/Medium/Minimum%20Characters%20For%20Words) | Medium | [Python](/AlgoExpert/Strings/Medium/Minimum%20Characters%20For%20Words/Minimum%20Characters%20For%20Words.py) |  |
 
 ### [Tries](/AlgoExpert/Tries)
 | # | Title | Difficulty | Solution | Companies |
