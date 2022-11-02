@@ -136,6 +136,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 2 | [Sort Stack](/AlgoExpert/Stacks/Medium/Sort%20Stack) | Medium | [Python](/AlgoExpert/Stacks/Medium/Sort%20Stack/Sort%20Stack.py) |
 | 3 | [Next Greater Element](/AlgoExpert/Stacks/Medium/Next%20Greater%20Element) | Medium | [Python](/AlgoExpert/Stacks/Medium/Next%20Greater%20Element/Next%20Greater%20Element.py) |
 | 4 | [Sunset Views](/AlgoExpert/Stacks/Medium/Sunset%20Views) | Medium | [Python](/AlgoExpert/Stacks/Medium/Sunset%20Views/Sunset%20Views.py) |
+| 5 | [Balanced Bracket](/AlgoExpert/Stacks/Medium/Balanced%20Brackets) | Medium | [Python](/AlgoExpert/Stacks/Medium/Balanced%20Brackets/Balanced%20Brackets.py) |
 
 ### [Strings](/AlgoExpert/Strings)
 | # | Title                                                           | Difficulty | Solution | Companies |
