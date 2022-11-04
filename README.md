@@ -113,6 +113,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |--|-------------------------------------------------------------| ---------- | -------- | --------- |
 | 1 | [Nth Fibonacci](/AlgoExpert/Recursion/Easy/Nth%20Fibonacci) | Easy | [Python](/AlgoExpert/Recursion/Easy/Nth%20Fibonacci/Nth%20Fibonacci.py) |
 | 2 | [Product Sum](/AlgoExpert/Recursion/Easy/Product%20Sum) | Easy | [Python](/AlgoExpert/Recursion/Easy/Product%20Sum/Product%20Sum.py) |
+| 3 | [Powerset](/AlgoExpert/Recursion/Medium/Powerset) | Easy | [Python](/AlgoExpert/Recursion/Medium/Powerset/Powerset.py) |
 
 ### [Searching](/AlgoExpert/Searching)
 | # | Title | Difficulty | Solution | Companies |
