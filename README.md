@@ -116,6 +116,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 2 | [Product Sum](/AlgoExpert/Recursion/Easy/Product%20Sum) | Easy | [Python](/AlgoExpert/Recursion/Easy/Product%20Sum/Product%20Sum.py) |
 | 3 | [Powerset](/AlgoExpert/Recursion/Medium/Powerset) | Easy | [Python](/AlgoExpert/Recursion/Medium/Powerset/Powerset.py) |
 | 4 | [Phone Number Mnemonics](/AlgoExpert/Recursion/Medium/Phone%20Number%20Mnemonics) | Easy | [Python](/AlgoExpert/Recursion/Medium/Phone%20Number%20Mnemonics/Phone%20Number%20Mnemonics.py) |
+| 5 | [Staircase Traversal](/AlgoExpert/Recursion/Medium/Staircase%20Traversal) | Easy | [Python](/AlgoExpert/Recursion/Medium/Staircase%20Traversal/Staircase%20Traversal.py) |
 
 ### [Searching](/AlgoExpert/Searching)
 | # | Title | Difficulty | Solution | Companies |
