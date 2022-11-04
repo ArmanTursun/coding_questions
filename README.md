@@ -149,6 +149,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 5 | [First Non Repeating Character](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character) | Easy | [Python](/AlgoExpert/Strings/Easy/First%20Non%20Repeating%20Character/First%20Non%20Repeating%20Character.py) | [Facebook](#facebook), [Google](#google), [Amazon](#amazon), [Apple](#apple), [Microsoft](#microsoft) |
 | 6 | [Minimum Characters For Words](/AlgoExpert/Strings/Medium/Minimum%20Characters%20For%20Words) | Medium | [Python](/AlgoExpert/Strings/Medium/Minimum%20Characters%20For%20Words/Minimum%20Characters%20For%20Words.py) |  |
 | 7 | [Reverse Words in String](/AlgoExpert/Strings/Medium/Reverse%20Words%20in%20String) | Medium | [Python](/AlgoExpert/Strings/Medium/Reverse%20Words%20in%20String/Reverse%20Words%20in%20String.py) |  |
+| 8 | [Valid IP Addresses](/AlgoExpert/Strings/Medium/Valid%20IP%20Addresses) | Medium | [Python](/AlgoExpert/Strings/Medium/Valid%20IP%20Addresses/Valid%20IP%20Addresses.py) |  |
 
 ### [Tries](/AlgoExpert/Tries)
 | # | Title | Difficulty | Solution | Companies |
