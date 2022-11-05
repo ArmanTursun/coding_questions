@@ -157,6 +157,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 7 | [Reverse Words in String](/AlgoExpert/Strings/Medium/Reverse%20Words%20in%20String) | Medium | [Python](/AlgoExpert/Strings/Medium/Reverse%20Words%20in%20String/Reverse%20Words%20in%20String.py) |  |
 | 8 | [Valid IP Addresses](/AlgoExpert/Strings/Medium/Valid%20IP%20Addresses) | Medium | [Python](/AlgoExpert/Strings/Medium/Valid%20IP%20Addresses/Valid%20IP%20Addresses.py) |  |
 | 9 | [Group Anagrams](/AlgoExpert/Strings/Medium/Group%20Anagrams) | Medium | [Python](/AlgoExpert/Strings/Medium/Group%20Anagrams/Group%20Anagrams.py) |  |
+| 10 | [Longest Palindromic Substring](/AlgoExpert/Strings/Medium/Longest%20Palindromic%20Substring) | Medium | [Python](/AlgoExpert/Strings/Medium/Longest%20Palindromic%20Substring/Longest%20Palindromic%20Substring.py) |  |
 
 ### [Tries](/AlgoExpert/Tries)
 | # | Title | Difficulty | Solution | Companies |
