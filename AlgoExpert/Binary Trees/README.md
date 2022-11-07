@@ -15,6 +15,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 4 | [Binary Tree Diameter](/AlgoExpert/Binary%20Trees/Medium/Binary%20Tree%20Diameter) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Binary%20Tree%20Diameter/Binary%20Tree%20Diameter.py) |  |
 | 5 | [Find Successor](/AlgoExpert/Binary%20Trees/Medium/Find%20Successor) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Find%20Successor/Find%20Successor.py) |  |
 | 6 | [Height Balanced Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Height%20Balanced%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Height%20Balanced%20Binary%20Tree/Height%20Balanced%20Binary%20Tree.py) |  |
+| 7 | [Max Path Sum In Binary Tree](/AlgoExpert/Binary%20Trees/Hard/Max%20Path%20Sum%20In%20Binary%20Tree) | Hard | [Python](/AlgoExpert/Binary%20Trees/Hard/Max%20Path%20Sum%20In%20Binary%20Tree/Max%20Path%20Sum%20In%20Binary%20Tree.py) |  |
 
 
 
