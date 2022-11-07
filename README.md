@@ -162,9 +162,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 10 | [Longest Palindromic Substring](/AlgoExpert/Strings/Medium/Longest%20Palindromic%20Substring) | Medium | [Python](/AlgoExpert/Strings/Medium/Longest%20Palindromic%20Substring/Longest%20Palindromic%20Substring.py) |  |
 
 ### [Tries](/AlgoExpert/Tries)
-| # | Title                                                                             | Difficulty | Solution                                                                                 | Companies |
-|---|-----------------------------------------------------------------------------------| ---------- |------------------------------------------------------------------------------------------| --------- |
-| 1 | [Suffix Trie Construction](/AlgoExpert/Tries/Medium/Suffix%20Trie%20Construction) | Medium | [Python](/AlgoExpert/Trie/Medium/Suffix%20Trie%20Construction/Suffix%20Trie%20Construction.py) |
+| # | Title                                                                             | Difficulty | Solution                                                                                        | Companies |
+|---|-----------------------------------------------------------------------------------| ---------- |-------------------------------------------------------------------------------------------------| --------- |
+| 1 | [Suffix Trie Construction](/AlgoExpert/Tries/Medium/Suffix%20Trie%20Construction) | Medium | [Python](/AlgoExpert/Tries/Medium/Suffix%20Trie%20Construction/Suffix%20Trie%20Construction.py) |
 
 ## [LeetCode](/LeetCode)
 Questions in LeetCode are categorized by difficulty. 
