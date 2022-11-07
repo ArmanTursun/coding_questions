@@ -37,7 +37,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 ### [Stacks](/AlgoExpert/Stacks)
 ### [Strings](/AlgoExpert/Strings)
 ### [Tries](/AlgoExpert/Tries)
-
+-----------------------------------------------------------------------------
 
 ## [LeetCode](/LeetCode)
 Questions in LeetCode are categorized by difficulty. 
@@ -56,7 +56,7 @@ I also added index for similar questions for each problem since it may help for 
 | # | Title | Solution | Companies | Tag | Similar Questions |
 |---| ----- | -------- | --------- | --- | ----------------- |
 
------------------------------------------------------------------------------
+
 # Questions categorized by company
 
 Leetcode and AlgoExpert problems summarized by different companies. 
