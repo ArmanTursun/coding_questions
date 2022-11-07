@@ -6,13 +6,15 @@ These questions are from AlgoExpert, and the answers are my own code from my usu
 If you want to practice coding with AlgoExpert, please purchase it from the [official website](https://www.algoexpert.io/product).
 
 
-# [Linked Lists](/AlgoExpert/Linked%20Lists)
-| # | Title                                                                                                            | Difficulty | Solution | Companies |
-|--|------------------------------------------------------------------------------------------------------------------| ---------- | -------- | --------- |
-| 1 | [Remove Duplicates From Linked List](/AlgoExpert/Linked%20Lists/Easy/Remove%20Duplicates%20From%20Linked%20List) | Easy | [Python](/AlgoExpert/Linked%20Lists/Easy/Remove%20Duplicates%20From%20Linked%20List/Remove%20Duplicates%20From%20Linked%20List.py) |
-| 2 | [Linked List Construction](/AlgoExpert/Linked%20Lists/Medium/Linked%20List%20Construction) | Medium | [Python](/AlgoExpert/Linked%20Lists/Medium/Linked%20List%20Construction/Linked%20List%20Construction.py) |
-| 3 | [Remove Kth Node From End](/AlgoExpert/Linked%20Lists/Medium/Remove%20Kth%20Node%20From%20End) | Medium | [Python](/AlgoExpert/Linked%20Lists/Medium/Remove%20Kth%20Node%20From%20End/Remove%20Kth%20Node%20From%20End.py) |
-| 4 | [Sum of Linked Lists](/AlgoExpert/Linked%20Lists/Medium/Sum%20of%20Linked%20Lists) | Medium | [Python](/AlgoExpert/Linked%20Lists/Medium/Sum%20of%20Linked%20Lists/Sum%20of%20Linked%20Lists.py) |
+# [Recursion](/AlgoExpert/Recursion)
+| # | Title                                                       | Difficulty | Solution | Companies |
+|--|-------------------------------------------------------------| ---------- | -------- | --------- |
+| 1 | [Nth Fibonacci](/AlgoExpert/Recursion/Easy/Nth%20Fibonacci) | Easy | [Python](/AlgoExpert/Recursion/Easy/Nth%20Fibonacci/Nth%20Fibonacci.py) |
+| 2 | [Product Sum](/AlgoExpert/Recursion/Easy/Product%20Sum) | Easy | [Python](/AlgoExpert/Recursion/Easy/Product%20Sum/Product%20Sum.py) |
+| 3 | [Powerset](/AlgoExpert/Recursion/Medium/Powerset) | Easy | [Python](/AlgoExpert/Recursion/Medium/Powerset/Powerset.py) |
+| 4 | [Phone Number Mnemonics](/AlgoExpert/Recursion/Medium/Phone%20Number%20Mnemonics) | Easy | [Python](/AlgoExpert/Recursion/Medium/Phone%20Number%20Mnemonics/Phone%20Number%20Mnemonics.py) |
+| 5 | [Staircase Traversal](/AlgoExpert/Recursion/Medium/Staircase%20Traversal) | Medium | [Python](/AlgoExpert/Recursion/Medium/Staircase%20Traversal/Staircase%20Traversal.py) |
+| 6 | [Permutations](/AlgoExpert/Recursion/Medium/Permutations) | Medium | [Python](/AlgoExpert/Recursion/Medium/Permutations/Permutations.py) |
 
 
 
