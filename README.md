@@ -12,7 +12,8 @@ Coding interview questions ([LeetCode](#leetcode) &amp; [AlgoExpert](#algoexpert
 - Watch video explanation on AlgoExpert and try by yourself. Then see the solutions of other users and also the discussion of the same question on LeetCode.
 - Organize all solutions based on their time and space complexity, then compare solutions using different data structures and algorithms. Since there would be follow-up questions in actual interview that most likely would be the improvements of time and space complexity with better data structure and algorithm.
 - I would say spending one hour for two easy problems and for one medium problem, or one to two hours for a hard problem would be proper. Just dig deeper into one problem.
-- Don't waste your time on figuring out what kind of data structure or algorithm should be used. If you don't have any idea within 25 minute, just skip to the solution. 
+- Don't waste your time on figuring out what kind of data structure or algorithm should be used. If you don't have any idea within 25 minute, just skip to the solution.
+-----------------------------------------------------------------------------
 
 ## [AlgoExpert](/AlgoExpert)
 Questions in AlgoExpert are categorized by data structure and then by difficulty.
@@ -55,7 +56,7 @@ I also added index for similar questions for each problem since it may help for 
 ### Hard
 | # | Title | Solution | Companies | Tag | Similar Questions |
 |---| ----- | -------- | --------- | --- | ----------------- |
-
+-----------------------------------------------------------------------------
 
 # Questions categorized by company
 
