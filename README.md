@@ -184,6 +184,9 @@ I also added index for similar questions for each problem since it may help for 
 |---| ----- | -------- | --------- | --- | ----------------- |
 
 # Questions categorized by company
+
+Leetcode and AlgoExpert problems summarized by different companies. 
+
 ### [Facebook](/Facebook/)
 ### [Google](/Google/)
 ### [Amazon](/Amazon/)
