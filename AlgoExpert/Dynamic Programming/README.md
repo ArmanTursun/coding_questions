@@ -15,6 +15,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 4 | [Max Subset Sum No Adjacent](/AlgoExpert/Dynamic%20Programming/Medium/Max%20Subset%20Sum%20No%20Adjacent) | Medium | [Python](/AlgoExpert/Dynamic%20Programming/Medium/Max%20Subset%20Sum%20No%20Adjacent/Max%20Subset%20Sum%20No%20Adjacent.py) |  |
 | 5 | [Levenshtein Distance](/AlgoExpert/Dynamic%20Programming/Medium/Levenshtein%20Distance) | Medium | [Python](/AlgoExpert/Dynamic%20Programming/Medium/Levenshtein%20Distance/Levenshtein%20Distance.py) |  |
 | 6 | [Longest Common Subsequence](/AlgoExpert/Dynamic%20Programming/Hard/Longest%20Common%20Subsequence) | Hard | [Python](/AlgoExpert/Dynamic%20Programming/Hard/Longest%20Common%20Subsequence/Longest%20Common%20Subsequence.py) |  |
+| 7 | [Knapsack Problem](/AlgoExpert/Dynamic%20Programming/Hard/Knapsack%20Problem) | Hard | [Python](/AlgoExpert/Dynamic%20Programming/Hard/Knapsack%20Problem/Knapsack%20Problem.py) |  |
 
 
 
