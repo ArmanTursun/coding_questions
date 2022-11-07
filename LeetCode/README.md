@@ -5,13 +5,13 @@ The number in the title of the question represents the question number in LeetCo
 
 I also added index for similar questions for each problem since it may help for the follow-up questions in real interview.
 
-## Easy
+## [Easy](/LeetCode/Easy/)
 | # | Title | Solution | Companies | Tag | Similar Questions |
 |---| ----- | -------- | --------- | --- | ----------------- |
-## Medium
+## [Medium](/LeetCode/Medium/)
 | # | Title | Solution | Companies | Tag | Similar Questions |
 |---| ----- | -------- | --------- | --- | ----------------- |
-## Hard
+## [Hard](/LeetCode/Hard/)
 | # | Title | Solution | Companies | Tag | Similar Questions |
 |---| ----- | -------- | --------- | --- | ----------------- |
 
