@@ -11,6 +11,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 |--| ----- | ---------- | -------- | --------- |
 | 1 | [Knuth-Morris-Pratt Algorithm](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm) | Very Hard | [Python](/AlgoExpert/Famous%20Algorithms/Very%20Hard/Knuth-Morris-Pratt%20Algorithm/Knuth-Morris-Pratt%20Algorithm.py) |
 | 2 | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | [Facebook](/Facebook/), [Google](/Google/), [Amazon](/Amazon/), [Apple](/Apple/), [Microsoft](/Microsoft/) |
+| 3 | [Dijkstra's Algorithm](/AlgoExpert/Famous%20Algorithms/Hard/Dijkstra's%20Algorithm) | Hard | [Python](/AlgoExpert/Famous%20Algorithms/Hard/Dijkstra's%20Algorithm/Dijkstra's%20Algorithm.py) |  |
 
 
 
