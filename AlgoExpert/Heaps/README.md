@@ -8,8 +8,9 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 
 # [Heaps](/AlgoExpert/Heaps)
 | # | Title                                                                       | Difficulty | Solution | Companies |
-|---|-----------------------------------------------------------------------------|--------| -------- | --------- |
+|--|-----------------------------------------------------------------------------|--------| -------- | --------- |
 | 1 | [Min Heap Construction](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction) | Medium | [Python](/AlgoExpert/Heaps/Medium/Min%20Heap%20Construction/Min%20Heap%20Construction.py) |
+| 2 | [Continuous Median](/AlgoExpert/Heaps/Hard/Continuous%20Median) | Hard | [Python](/AlgoExpert/Heaps/Hard/Continuous%20Median/Continuous%20Median.py) |
 
 
 
