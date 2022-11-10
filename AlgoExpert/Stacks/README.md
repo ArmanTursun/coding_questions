@@ -14,6 +14,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 3 | [Next Greater Element](/AlgoExpert/Stacks/Medium/Next%20Greater%20Element) | Medium | [Python](/AlgoExpert/Stacks/Medium/Next%20Greater%20Element/Next%20Greater%20Element.py) |
 | 4 | [Sunset Views](/AlgoExpert/Stacks/Medium/Sunset%20Views) | Medium | [Python](/AlgoExpert/Stacks/Medium/Sunset%20Views/Sunset%20Views.py) |
 | 5 | [Balanced Bracket](/AlgoExpert/Stacks/Medium/Balanced%20Brackets) | Medium | [Python](/AlgoExpert/Stacks/Medium/Balanced%20Brackets/Balanced%20Brackets.py) |
+| 6 | [Largest Rectangle Under Skyline](/AlgoExpert/Stacks/Hard/Largest%20Rectangle%20Under%20Skyline) | Hard | [Python](/AlgoExpert/Stacks/Hard/Largest%20Rectangle%20Under%20Skyline/Largest%20Rectangle%20Under%20Skyline.py) |
 
 
 
