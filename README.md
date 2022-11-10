@@ -62,6 +62,10 @@ Leetcode and AlgoExpert problems summarized by different companies.
 ### [Apple](/Apple/)
 ### [Microsoft](/Microsoft/)
 
+-----------------------------------------------------------------------------
 
+To be Updated contents
+[Longest Palindromic Substring](/AlgoExpert/Strings/Medium/Longest%20Palindromic%20Substring/Longest%20Palindromic%20Substring.py)
+[Largest Rectangle Under Skyline](/AlgoExpert/Stacks/Hard/Largest%20Rectangle%20Under%20Skyline/Largest%20Rectangle%20Under%20Skyline.py)
 
 Updating...
