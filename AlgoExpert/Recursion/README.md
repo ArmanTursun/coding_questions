@@ -15,6 +15,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 4 | [Phone Number Mnemonics](/AlgoExpert/Recursion/Medium/Phone%20Number%20Mnemonics) | Easy | [Python](/AlgoExpert/Recursion/Medium/Phone%20Number%20Mnemonics/Phone%20Number%20Mnemonics.py) |
 | 5 | [Staircase Traversal](/AlgoExpert/Recursion/Medium/Staircase%20Traversal) | Medium | [Python](/AlgoExpert/Recursion/Medium/Staircase%20Traversal/Staircase%20Traversal.py) |
 | 6 | [Permutations](/AlgoExpert/Recursion/Medium/Permutations) | Medium | [Python](/AlgoExpert/Recursion/Medium/Permutations/Permutations.py) |
+| 7 | [Lowest Common Manager](/AlgoExpert/Recursion/Hard/Lowest%20Common%20Manager) | Hard | [Python](/AlgoExpert/Recursion/Hard/Lowest%20Common%20Manager/Lowest%20Common%20Manager.py) |
 
 
 
