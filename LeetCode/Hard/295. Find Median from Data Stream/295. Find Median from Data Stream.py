@@ -26,9 +26,10 @@
 # medianFinder.addNum(3);    // arr[1, 2, 3]
 # medianFinder.findMedian(); // return 2.0
 
-# Follow up
-# If all integer numbers from the stream are in the range [0, 100], how would you optimize your solution?
-# If 99% of all integer numbers from the stream are in the range [0, 100], how would you optimize your solution?
+# Your MedianFinder object will be instantiated and called as such:
+# obj = MedianFinder()
+# obj.addNum(num)
+# param_2 = obj.findMedian()
 
 ## Min/Max Heap
 class MedianFinder:
@@ -64,7 +65,6 @@ class MedianFinder:
         while len(bigHeap) - len(smallHeap) > 1:
             heappush(smallHeap, -heappop(bigHeap))
 
-# Your MedianFinder object will be instantiated and called as such:
-# obj = MedianFinder()
-# obj.addNum(num)
-# param_2 = obj.findMedian()
+# Follow up
+# If all integer numbers from the stream are in the range [0, 100], how would you optimize your solution?
+# If 99% of all integer numbers from the stream are in the range [0, 100], how would you optimize your solution?
