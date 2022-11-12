@@ -24,6 +24,7 @@ If you want to practice coding with AlgoExpert, please purchase it from the [off
 | 13 | [First Duplicate Value](/AlgoExpert/Arrays/Medium/First%20Duplicate%20Value) | Medium | [Python](/AlgoExpert/Arrays/Medium/First%20Duplicate%20Value/First%20Duplicate%20Value.py) |  |
 | 14 | [Merge Overlapping Intervals](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals) | Medium | [Python](/AlgoExpert/Arrays/Medium/Merge%20Overlapping%20Intervals/Merge%20Overlapping%20Intervals.py) | [Facebook](/Facebook/), [Google](/Google/)), [Amazon](/Amazon/), [Apple](/Apple/), [Microsoft](/Microsoft/) |
 | 15 | [Four Number Sum](/AlgoExpert/Arrays/Hard/Four%20NUmber%20Sum) | Hard | [Python](/AlgoExpert/Arrays/Hard/Four%20NUmber%20Sum/Four%20NUmber%20Sum.py) |  |
+| 16 | [Min Rewards](/AlgoExpert/Arrays/Hard/Min%20Rewards) | Hard | [Python](/AlgoExpert/Arrays/Hard/Min%20Rewards/Min%20Rewards.py) |  |
 
 
 
