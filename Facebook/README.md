@@ -14,7 +14,7 @@
 | A | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | A | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 | A | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
-| 295 | [Find Median from Data Stream]((/LeetCode/Hard/295.%20Frind%20Median%20from%20Data%20Stream/)) | Hard | [Python](/LeetCode/Hard/295.%20Frind%20Median%20from%20Data%20Stream/295.%20Frind%20Median%20from%20Data%20Stream.py) | Heap, Two Pointers |  |
+| 295 | [Find Median from Data Stream]((/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/)) | Hard | [Python](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/295.%20Find%20Median%20from%20Data%20Stream.py) | Heap, Two Pointers |  |
 
 
 
