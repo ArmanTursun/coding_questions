@@ -5,9 +5,9 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1859. Sorting the Sentence'
-companies = [1, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/sorting-the-sentence/description/'
+title = '1773. Count Items Matching a Rule'
+companies = [2, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/count-items-matching-a-rule/'
 topic = ['String', 'Sorting']
 related = ''
 #######################################
