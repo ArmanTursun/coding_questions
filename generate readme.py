@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '938. Range Sum of BST'
-companies = [1, 2, 3, 4] ## 'Amazon', 'Apple', 'Facebook', 'Google', 'Microsoft'
-url = 'https://leetcode.com/problems/range-sum-of-bst/'
-topic = ['BST', 'DFS']
+title = '1859. Sorting the Sentence'
+companies = [1, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/sorting-the-sentence/description/'
+topic = ['String', 'Sorting']
 related = ''
 #######################################
 #######################################
