@@ -5,11 +5,11 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = ''
-companies = [1, 2, 3, 4, 5] ## 'Amazon', 'Apple', 'Facebook', 'Google', 'Microsoft'
+title = '1528. Shuffle String'
+companies = [2, 3, 4, 5] ## 'Amazon', 'Apple', 'Facebook', 'Google', 'Microsoft'
 hashmap = {1 : '[Amazon](/Amazon/)', 2 : '[Apple](/Apple/)', 3 : '[Facebook](/Facebook/)', 4 : '[Google](/Google/)', 5 : '[Microsoft](/Microsoft/)'}
-url = 'https://'
-topic = ['math']
+url = 'https://leetcode.com/problems/shuffle-string/'
+topic = ['Array', 'String']
 related = ''
 #######################################
 #######################################

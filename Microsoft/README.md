@@ -19,6 +19,7 @@
 | [1108](https://leetcode.com/problems/defanging-an-ip-address/description/)      | [Defanging an IP Address](/LeetCode/Easy/1108.%20Defanging%20an%20IP%20Address/)             | Easy | [Python](/LeetCode/Easy/1108.%20Defanging%20an%20IP%20Address/1108.%20Defanging%20an%20IP%20Address.py) | String      |  |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Running Sum of 1d Array](/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array/) | Easy | [Python](/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array/1480.%20Running%20Sum%20of%201d%20Array.py) | Array |  |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/description/)         | [Number of Good Pairs](/LeetCode/Easy/1512.%20Number%20of%20Good%20Pairs/)                       | Easy | [Python](/LeetCode/Easy/1512.%20Number%20of%20Good%20Pairs/1512.%20Number%20of%20Good%20Pairs.py) | Array, Hashmap |  |
+| [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](/LeetCode/Easy/1528.%20Shuffle%20String/) | Easy | [Python](/LeetCode/Easy/1528.%20Shuffle%20String/1528.%20Shuffle%20String.py) | Array, String |  |
 | [2235](https://leetcode.com/problems/add-two-integers/description/) | [Add Two Integers](/LeetCode/Easy/2235.%20Add%20Two%20Integers/) | Hard | [Python](/LeetCode/Easy/2235.%20Add%20Two%20Integers/2235.%20Add%20Two%20Integers.py) | Math |  |
 
 
