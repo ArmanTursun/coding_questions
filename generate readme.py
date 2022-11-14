@@ -5,14 +5,14 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1528. Shuffle String'
-companies = [2, 3, 4, 5] ## 'Amazon', 'Apple', 'Facebook', 'Google', 'Microsoft'
-hashmap = {1 : '[Amazon](/Amazon/)', 2 : '[Apple](/Apple/)', 3 : '[Facebook](/Facebook/)', 4 : '[Google](/Google/)', 5 : '[Microsoft](/Microsoft/)'}
-url = 'https://leetcode.com/problems/shuffle-string/'
-topic = ['Array', 'String']
+title = '938. Range Sum of BST'
+companies = [1, 2, 3, 4] ## 'Amazon', 'Apple', 'Facebook', 'Google', 'Microsoft'
+url = 'https://leetcode.com/problems/range-sum-of-bst/'
+topic = ['BST', 'DFS']
 related = ''
 #######################################
 #######################################
+hashmap = {1 : '[Amazon](/Amazon/)', 2 : '[Apple](/Apple/)', 3 : '[Facebook](/Facebook/)', 4 : '[Google](/Google/)', 5 : '[Microsoft](/Microsoft/)'}
 
 title = title.strip()
 titleNum = title.split('.')[0]
