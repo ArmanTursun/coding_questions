@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '617. Merge Two Binary Trees'
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/merge-two-binary-trees/description/'
-topic = ['Binary Tree', "DFS"]
+title = '897. Increasing Order Search Tree'
+companies = [1, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/increasing-order-search-tree/description/'
+topic = ['BST', "DFS", "Stack"]
 related = ''
 #######################################
 #######################################
