@@ -5,9 +5,9 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1662. Check If Two String Arrays are Equivalent'
-companies = [2, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/'
+title = '1614. Maximum Nesting Depth of the Parentheses'
+companies = [1, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/'
 topic = ['Array', 'String']
 related = ''
 #######################################
