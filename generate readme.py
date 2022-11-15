@@ -5,9 +5,9 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '832. Flipping an Image'
-companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/flipping-an-image/description/'
+title = '1213. Intersection of Three Sorted Arrays'
+companies = [3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/'
 topic = ['Array']
 related = ''
 #######################################
