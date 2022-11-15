@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1588. Sum of All Odd Length Subarrays'
-companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/'
-topic = ['Array']
+title = '1662. Check If Two String Arrays are Equivalent'
+companies = [2, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/'
+topic = ['Array', 'String']
 related = ''
 #######################################
 #######################################
