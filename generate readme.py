@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '557. Reverse Words in a String III'
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/reverse-words-in-a-string-iii/description/'
-topic = ['String']
+title = '832. Flipping an Image'
+companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/flipping-an-image/description/'
+topic = ['Array']
 related = ''
 #######################################
 #######################################
