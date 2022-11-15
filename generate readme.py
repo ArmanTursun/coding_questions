@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '346. Moving Average from Data Stream'
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/moving-average-from-data-stream/description/'
-topic = ['Array', "Queue"]
+title = '2089. Find Target Indices After Sorting Array'
+companies = [2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/find-target-indices-after-sorting-array/description/'
+topic = ['Array', "Sorting"]
 related = ''
 #######################################
 #######################################
