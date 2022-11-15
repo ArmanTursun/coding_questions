@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1614. Maximum Nesting Depth of the Parentheses'
-companies = [1, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/'
-topic = ['Array', 'String']
+title = '557. Reverse Words in a String III'
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/reverse-words-in-a-string-iii/description/'
+topic = ['String']
 related = ''
 #######################################
 #######################################
