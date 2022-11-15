@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '2089. Find Target Indices After Sorting Array'
-companies = [2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/find-target-indices-after-sorting-array/description/'
-topic = ['Array', "Sorting"]
+title = '344. Reverse String'
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/reverse-string/description/'
+topic = ['Two Pointers', "Sorting"]
 related = ''
 #######################################
 #######################################
