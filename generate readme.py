@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '359. Logger Rate Limiter'
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/logger-rate-limiter/description/'
-topic = ['Hashmap']
+title = '1351. Count Negative Numbers in a Sorted Matrix'
+companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/'
+topic = ['Array']
 related = ''
 #######################################
 #######################################
