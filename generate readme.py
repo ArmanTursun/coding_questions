@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '905. Sort Array By Parity'
-companies = [1, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/sort-array-by-parity/description/'
-topic = ['Array', "Two Pointers"]
+title = '359. Logger Rate Limiter'
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/logger-rate-limiter/description/'
+topic = ['Hashmap']
 related = ''
 #######################################
 #######################################
