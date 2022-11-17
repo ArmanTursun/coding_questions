@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1710. Maximum Units on a Truck'
-companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/maximum-units-on-a-truck/description/'
-topic = ['Greedy', 'Sorting']
+title = '876. Middle of the Linked List'
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/middle-of-the-linked-list/description/'
+topic = ['Linked List', 'Two Pointers']
 related = ''
 #######################################
 #######################################
