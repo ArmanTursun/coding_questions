@@ -8,4 +8,4 @@
 /dataSources.local.xml
 .idea
 .DS_Store
-generate_readme.py
+/generate_readme.py
