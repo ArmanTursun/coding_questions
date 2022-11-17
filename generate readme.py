@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1299. Replace Elements with Greatest Element on Right Side'
-companies = [1, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/'
-topic = ['Array']
+title = '1710. Maximum Units on a Truck'
+companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/maximum-units-on-a-truck/description/'
+topic = ['Greedy', 'Sorting']
 related = ''
 #######################################
 #######################################
