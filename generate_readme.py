@@ -5,9 +5,9 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '104. Maximum Depth of Binary Tree'
+title = '94. Binary Tree Inorder Traversal'
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/maximum-depth-of-binary-tree/description/'
+url = 'https://leetcode.com/problems/binary-tree-inorder-traversal/description/'
 topic = ['BT', 'DFS']
 related = ''
 #######################################
