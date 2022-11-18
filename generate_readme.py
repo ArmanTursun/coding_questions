@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '206. Reverse Linked List'
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/reverse-linked-list/description/'
-topic = ['Linked List']
+title = '1460. Make Two Arrays Equal by Reversing Subarrays'
+companies = [3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/'
+topic = ['Array', 'Hashmap']
 related = ''
 #######################################
 #######################################
