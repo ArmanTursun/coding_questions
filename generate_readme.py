@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1460. Make Two Arrays Equal by Reversing Subarrays'
-companies = [3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/'
-topic = ['Array', 'Hashmap']
+title = '977. Squares of a Sorted Array'
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/squares-of-a-sorted-array/description/'
+topic = ['Array', 'Two Pointers']
 related = ''
 #######################################
 #######################################
