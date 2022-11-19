@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '1047. Remove All Adjacent Duplicates In String'
+title = '349. Intersection of Two Arrays'
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/'
-topic = ['String', 'Stack']
+url = 'https://leetcode.com/problems/intersection-of-two-arrays/description/'
+topic = ['Set', 'Array']
 related = ''
 #######################################
 #######################################
