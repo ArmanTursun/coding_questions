@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "412. Fizz Buzz"
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/fizz-buzz/description/'
-topic = ['String', 'Math']
+title = "766. Toeplitz Matrix"
+companies = [1, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/toeplitz-matrix/description/'
+topic = ['Array', 'Matrix']
 related = ''
 #######################################
 #######################################
