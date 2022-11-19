@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "766. Toeplitz Matrix"
-companies = [1, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/toeplitz-matrix/description/'
-topic = ['Array', 'Matrix']
+title = "1636. Sort Array by Increasing Frequency"
+companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/sort-array-by-increasing-frequency/description/'
+topic = ['Sort', 'Array', 'Hashmap']
 related = ''
 #######################################
 #######################################
