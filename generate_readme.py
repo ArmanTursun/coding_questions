@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "118. Pascal's Triangle"
+title = "509. Fibonacci Number"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/pascals-triangle/description/'
-topic = ['DP', 'Array']
+url = 'https://leetcode.com/problems/fibonacci-number/description/'
+topic = ['DP', 'Math']
 related = ''
 #######################################
 #######################################
