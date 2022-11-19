@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "1636. Sort Array by Increasing Frequency"
+title = "1002. Find Common Characters"
 companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/sort-array-by-increasing-frequency/description/'
-topic = ['Sort', 'Array', 'Hashmap']
+url = 'https://leetcode.com/problems/find-common-characters/description/'
+topic = ['String', 'Array', 'Hashmap']
 related = ''
 #######################################
 #######################################
