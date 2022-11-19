@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = '496. Next Greater Element I'
-companies = [1, 2, 3, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/next-greater-element-i/description/'
-topic = ['Array', 'Hashmap']
+title = '1207. Unique Number of Occurrences'
+companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/unique-number-of-occurrences/description/'
+topic = ['Array', 'Hashmap', "Set"]
 related = ''
 #######################################
 #######################################
