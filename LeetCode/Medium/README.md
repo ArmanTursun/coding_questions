@@ -6,7 +6,7 @@ The number in the title of the question represents the question number in LeetCo
 I also added index for similar questions for each problem since it may help for the follow-up questions in real interview.
 
 
-## Medium
+## Medium (0 problems)
 | # | Title | Solution | Companies | Tag | Similar Questions |
 |---| ----- | -------- | --------- | --- | ----------------- |
 

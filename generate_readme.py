@@ -5,8 +5,8 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "145. Binary Tree Postorder Traversal"
-companies = [1, 2, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+title = "11145. Binary Tree Postorder Traversal"
+companies = [] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
 url = 'https://leetcode.com/problems/binary-tree-postorder-traversal/description/'
 topic = ['Tree', 'DFS']
 related = ''
@@ -52,6 +52,14 @@ def prepend_line(file_name, insertline):
         flag = True
         prev = ''
         for line in read_obj:
+            if line[0] == '#' and line[2].isalpha():
+                totalNumber = line.split('(')[1].split(' ')[0]
+                totalNumber = str(int(totalNumber) + 1)
+                print (totalNumber)
+                newLine = '# ' + hardest + ' (' + totalNumber + ' problems)'
+                prev = newLine
+                write_obj.write(newLine + '\n')
+                continue
             if line[0] == '|' and line[2] == '[' and flag:
                 curNum = int(line[3:8].split(']')[0])
                 if insertNum < curNum:
