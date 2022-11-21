@@ -55,7 +55,7 @@ def prepend_line(file_name, insertline):
             if line[0] == '#' and line[2].isalpha():
                 totalNumber = line.split('(')[1].split(' ')[0]
                 totalNumber = str(int(totalNumber) + 1)
-                print (totalNumber)
+                #print (totalNumber)
                 newLine = '# ' + hardest + ' (' + totalNumber + ' problems)'
                 prev = newLine
                 write_obj.write(newLine + '\n')
