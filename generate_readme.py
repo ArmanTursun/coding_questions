@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "266. Palindrome Permutation"
-companies = [3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/palindrome-permutation/description/'
-topic = ['Hashmap', 'String']
+title = "191. Number of 1 Bits"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/number-of-1-bits/description/?q=follow&orderBy=most_relevant'
+topic = ['Bit Manipulation']
 related = ''
 #######################################
 #######################################
