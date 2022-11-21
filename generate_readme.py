@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "11145. Binary Tree Postorder Traversal"
-companies = [] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/binary-tree-postorder-traversal/description/'
-topic = ['Tree', 'DFS']
+title = "884. Uncommon Words from Two Sentences"
+companies = [3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/uncommon-words-from-two-sentences/description/'
+topic = ['Hashmap', 'String']
 related = ''
 #######################################
 #######################################
