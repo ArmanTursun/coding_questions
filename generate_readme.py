@@ -5,9 +5,9 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "884. Uncommon Words from Two Sentences"
-companies = [3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/uncommon-words-from-two-sentences/description/'
+title = "266. Palindrome Permutation"
+companies = [3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/palindrome-permutation/description/'
 topic = ['Hashmap', 'String']
 related = ''
 #######################################
