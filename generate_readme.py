@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "169. Majority Element"
+title = "706. Design HashMap"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/majority-element/description/'
-topic = ['Array', 'Hashmap']
+url = 'https://leetcode.com/problems/design-hashmap/description/'
+topic = ['Array', 'Linked List']
 related = ''
 #######################################
 #######################################
