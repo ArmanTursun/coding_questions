@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (57 problems)
+# Easy (58 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -20,6 +20,7 @@
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Convert Sorted Array to Binary Search Tree](/LeetCode/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy | [Python](/LeetCode/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py) | BST |  |
 | [118](https://leetcode.com/problems/pascals-triangle/description/) | [Pascal's Triangle](/LeetCode/Easy/118.%20Pascal's%20Triangle/) | Easy | [Python](/LeetCode/Easy/118.%20Pascal's%20Triangle/118.%20Pascal's%20Triangle.py) | DP, Array |  |
 | [136](https://leetcode.com/problems/single-number/description/) | [Single Number](/LeetCode/Easy/136.%20Single%20Number/) | Easy | [Python](/LeetCode/Easy/136.%20Single%20Number/136.%20Single%20Number.py) | Bit Manipulation, Array |  |
+| [169](https://leetcode.com/problems/majority-element/description/) | [Majority Element](/LeetCode/Easy/169.%20Majority%20Element/) | Easy | [Python](/LeetCode/Easy/169.%20Majority%20Element/169.%20Majority%20Element.py) | Array, Hashmap |  |
 | [191](https://leetcode.com/problems/number-of-1-bits/description/?q=follow&orderBy=most_relevant) | [Number of 1 Bits](/LeetCode/Easy/191.%20Number%20of%201%20Bits/) | Easy | [Python](/LeetCode/Easy/191.%20Number%20of%201%20Bits/191.%20Number%20of%201%20Bits.py) | Bit Manipulation |  |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | [Reverse Linked List](/LeetCode/Easy/206.%20Reverse%20Linked%20List/) | Easy | [Python](/LeetCode/Easy/206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List |  |
 | [226](https://leetcode.com/problems/invert-binary-tree/description/) | [Invert Binary Tree](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/226.%20Invert%20Binary%20Tree.py) | BT, DFS |  |
