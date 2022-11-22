@@ -1,6 +1,6 @@
 # [Facebook](https://leetcode.com/company/facebook/)
 
-# Easy (73 problems)
+# Easy (74 problems)
 | # | Title | Difficulty | Solution | Tag |
 | -- | ----- | ------------ | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -24,6 +24,7 @@
 | [191](https://leetcode.com/problems/number-of-1-bits/description/?q=follow&orderBy=most_relevant) | [Number of 1 Bits](/LeetCode/Easy/191.%20Number%20of%201%20Bits/) | Easy | [Python](/LeetCode/Easy/191.%20Number%20of%201%20Bits/191.%20Number%20of%201%20Bits.py) | Bit Manipulation |  |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | [Reverse Linked List](/LeetCode/Easy/206.%20Reverse%20Linked%20List/) | Easy | [Python](/LeetCode/Easy/206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List |  |
 | [226](https://leetcode.com/problems/invert-binary-tree/description/) | [Invert Binary Tree](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/226.%20Invert%20Binary%20Tree.py) | BT, DFS |  |
+| [243](https://leetcode.com/problems/shortest-word-distance/description/) | [Shortest Word Distance](/LeetCode/Easy/243.%20Shortest%20Word%20Distance/) | Easy | [Python](/LeetCode/Easy/243.%20Shortest%20Word%20Distance/243.%20Shortest%20Word%20Distance.py) | Array, String |  |
 | [266](https://leetcode.com/problems/palindrome-permutation/description/) | [Palindrome Permutation](/LeetCode/Easy/266.%20Palindrome%20Permutation/) | Easy | [Python](/LeetCode/Easy/266.%20Palindrome%20Permutation/266.%20Palindrome%20Permutation.py) | Hashmap, String |  |
 | [295](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Find Median from Data Stream](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/) | Hard | [Python](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/295.%20Find%20Median%20from%20Data%20Stream.py) | Heap, Two Pointers, Multiset |  |
 | [344](https://leetcode.com/problems/reverse-string/description/) | [Reverse String](/LeetCode/Easy/344.%20Reverse%20String/) | Easy | [Python](/LeetCode/Easy/344.%20Reverse%20String/344.%20Reverse%20String.py) | Two Pointers, Sorting |  |
