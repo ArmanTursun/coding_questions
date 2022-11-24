@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "268. Missing Number"
+title = "171. Excel Sheet Column Number"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/missing-number/'
-topic = ['Array', 'Math', 'Bit Manipulation']
+url = 'https://leetcode.com/problems/excel-sheet-column-number/description/'
+topic = ['String']
 related = ''
 #######################################
 #######################################
