@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "2303. Calculate Amount Paid in Taxes"
-companies = [3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/'
-topic = ['Array']
+title = "242. Valid Anagram"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/valid-anagram/description/'
+topic = ['String', 'Sort', 'Hashmap']
 related = ''
 #######################################
 #######################################
