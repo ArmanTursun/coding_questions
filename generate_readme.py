@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "21. Merge Two Sorted Lists"
+title = "268. Missing Number"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/merge-two-sorted-lists/description/'
-topic = ['Linked List']
+url = 'https://leetcode.com/problems/missing-number/'
+topic = ['Array', 'Math', 'Bit Manipulation']
 related = ''
 #######################################
 #######################################

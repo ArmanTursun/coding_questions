@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (61 problems)
+# Easy (62 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -27,6 +27,7 @@
 | [226](https://leetcode.com/problems/invert-binary-tree/description/) | [Invert Binary Tree](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/226.%20Invert%20Binary%20Tree.py) | BT, DFS |  |
 | [242](https://leetcode.com/problems/valid-anagram/description/) | [Valid Anagram](/LeetCode/Easy/242.%20Valid%20Anagram/) | Easy | [Python](/LeetCode/Easy/242.%20Valid%20Anagram/242.%20Valid%20Anagram.py) | String, Sort, Hashmap |  |
 | [266](https://leetcode.com/problems/palindrome-permutation/description/) | [Palindrome Permutation](/LeetCode/Easy/266.%20Palindrome%20Permutation/) | Easy | [Python](/LeetCode/Easy/266.%20Palindrome%20Permutation/266.%20Palindrome%20Permutation.py) | Hashmap, String |  |
+| [268](https://leetcode.com/problems/missing-number/) | [Missing Number](/LeetCode/Easy/268.%20Missing%20Number/) | Easy | [Python](/LeetCode/Easy/268.%20Missing%20Number/268.%20Missing%20Number.py) | Array, Math, Bit Manipulation |  |
 | [295](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Find Median from Data Stream](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/) | Hard | [Python](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/295.%20Find%20Median%20from%20Data%20Stream.py) | Heap, Two Pointers, Multiset |  |
 | [344](https://leetcode.com/problems/reverse-string/description/) | [Reverse String](/LeetCode/Easy/344.%20Reverse%20String/) | Easy | [Python](/LeetCode/Easy/344.%20Reverse%20String/344.%20Reverse%20String.py) | Two Pointers, Sorting |  |
 | [346](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Moving Average from Data Stream](/LeetCode/Easy/346.%20Moving%20Average%20from%20Data%20Stream/) | Easy | [Python](/LeetCode/Easy/346.%20Moving%20Average%20from%20Data%20Stream/346.%20Moving%20Average%20from%20Data%20Stream.py) | Array, Queue |  |
