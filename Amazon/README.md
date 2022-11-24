@@ -1,6 +1,6 @@
 # [Amazon](https://leetcode.com/company/amazon/)
 
-# Easy (71 problems)
+# Easy (73 problems)
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- |--|
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -27,7 +27,9 @@
 | [171](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Excel Sheet Column Number](/LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number/) | Easy | [Python](/LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number/171.%20Excel%20Sheet%20Column%20Number.py) | String |  |
 | [191](https://leetcode.com/problems/number-of-1-bits/description/?q=follow&orderBy=most_relevant) | [Number of 1 Bits](/LeetCode/Easy/191.%20Number%20of%201%20Bits/) | Easy | [Python](/LeetCode/Easy/191.%20Number%20of%201%20Bits/191.%20Number%20of%201%20Bits.py) | Bit Manipulation |  |
 | [206](https://leetcode.com/problems/reverse-linked-list/description/) | [Reverse Linked List](/LeetCode/Easy/206.%20Reverse%20Linked%20List/) | Easy | [Python](/LeetCode/Easy/206.%20Reverse%20Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List |  |
+| [217](https://leetcode.com/problems/move-zeroes/) | [Contains Duplicate](/LeetCode/Easy/217.%20Contains%20Duplicate/) | Easy | [Python](/LeetCode/Easy/217.%20Contains%20Duplicate/217.%20Contains%20Duplicate.py) | Array, Hashmap, Set, Sort |  |
 | [226](https://leetcode.com/problems/invert-binary-tree/description/) | [Invert Binary Tree](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/226.%20Invert%20Binary%20Tree/226.%20Invert%20Binary%20Tree.py) | BT, DFS |  |
+| [232](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Implement Queue using Stacks](/LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks/) | Easy | [Python](/LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks/232.%20Implement%20Queue%20using%20Stacks.py) | Stack, Queue |  |
 | [242](https://leetcode.com/problems/valid-anagram/description/) | [Valid Anagram](/LeetCode/Easy/242.%20Valid%20Anagram/) | Easy | [Python](/LeetCode/Easy/242.%20Valid%20Anagram/242.%20Valid%20Anagram.py) | String, Sort, Hashmap |  |
 | [243](https://leetcode.com/problems/shortest-word-distance/description/) | [Shortest Word Distance](/LeetCode/Easy/243.%20Shortest%20Word%20Distance/) | Easy | [Python](/LeetCode/Easy/243.%20Shortest%20Word%20Distance/243.%20Shortest%20Word%20Distance.py) | Array, String |  |
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](/LeetCode/Easy/268.%20Missing%20Number/) | Easy | [Python](/LeetCode/Easy/268.%20Missing%20Number/268.%20Missing%20Number.py) | Array, Math, Bit Manipulation |  |

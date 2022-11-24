@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "283. Move Zeroes"
+title = "232. Implement Queue using Stacks"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/move-zeroes/'
-topic = ['Array']
+url = 'https://leetcode.com/problems/implement-queue-using-stacks/description/'
+topic = ['Stack', 'Queue']
 related = ''
 #######################################
 #######################################
