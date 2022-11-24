@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "171. Excel Sheet Column Number"
+title = "283. Move Zeroes"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/excel-sheet-column-number/description/'
-topic = ['String']
+url = 'https://leetcode.com/problems/move-zeroes/'
+topic = ['Array']
 related = ''
 #######################################
 #######################################
