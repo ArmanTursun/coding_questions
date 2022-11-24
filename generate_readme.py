@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "566. Reshape the Matrix"
-companies = [2, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/reshape-the-matrix/description/'
-topic = ['Array', 'Matrix']
+title = "21. Merge Two Sorted Lists"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/merge-two-sorted-lists/description/'
+topic = ['Linked List']
 related = ''
 #######################################
 #######################################

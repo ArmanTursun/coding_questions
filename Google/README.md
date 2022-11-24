@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (60 problems)
+# Easy (61 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -15,6 +15,7 @@
 | A | [Find Kth Largest Value In BST](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST) | Medium | [Python](/AlgoExpert/Binary%20Search%20Trees/Medium/Find%20Kth%20Largest%20Value%20In%20BST/Find%20Kth%20Largest%20Value%20In%20BST.py) | BST |
 | A | [Invert Binary Tree](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree) | Medium | [Python](/AlgoExpert/Binary%20Trees/Medium/Invert%20Binary%20Tree/Invert%20Binary%20Tree.py) | Binary Tree |
 | A | [Kadane's Algorithm](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm) | Medium | [Python](/AlgoExpert/Famous%20Algorithms/Medium/Kadane's%20Algorithm/Kadane's%20Algorithm.py) | Array, Divide and Conquer, DP |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Merge Two Sorted Lists](/LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists/) | Easy | [Python](/LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.py) | Linked List |  |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Binary Tree Inorder Traversal](/LeetCode/Easy/94.%20Binary%20Tree%20Inorder%20Traversal/) | Easy | [Python](/LeetCode/Easy/94.%20Binary%20Tree%20Inorder%20Traversal/94.%20Binary%20Tree%20Inorder%20Traversal.py) | BT, DFS, Threaded Binary Tree |  |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Maximum Depth of Binary Tree](/LeetCode/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | BT, DFS |  |
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Convert Sorted Array to Binary Search Tree](/LeetCode/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy | [Python](/LeetCode/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py) | BST |  |
