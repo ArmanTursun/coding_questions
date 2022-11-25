@@ -1,6 +1,6 @@
 # [Facebook](https://leetcode.com/company/facebook/)
 
-# Easy (88 problems)
+# Easy (89 problems)
 | # | Title | Difficulty | Solution | Tag |
 | -- | ----- | ------------ | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -31,6 +31,7 @@
 | [232](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Implement Queue using Stacks](/LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks/) | Easy | [Python](/LeetCode/Easy/232.%20Implement%20Queue%20using%20Stacks/232.%20Implement%20Queue%20using%20Stacks.py) | Stack, Queue |  |
 | [242](https://leetcode.com/problems/valid-anagram/description/) | [Valid Anagram](/LeetCode/Easy/242.%20Valid%20Anagram/) | Easy | [Python](/LeetCode/Easy/242.%20Valid%20Anagram/242.%20Valid%20Anagram.py) | String, Sort, Hashmap |  |
 | [243](https://leetcode.com/problems/shortest-word-distance/description/) | [Shortest Word Distance](/LeetCode/Easy/243.%20Shortest%20Word%20Distance/) | Easy | [Python](/LeetCode/Easy/243.%20Shortest%20Word%20Distance/243.%20Shortest%20Word%20Distance.py) | Array, String |  |
+| [257](https://leetcode.com/problems/binary-tree-paths/description/) | [Binary Tree Paths](/LeetCode/Easy/257.%20Binary%20Tree%20Paths/) | Easy | [Python](/LeetCode/Easy/257.%20Binary%20Tree%20Paths/257.%20Binary%20Tree%20Paths.py) | BT, DFS |  |
 | [266](https://leetcode.com/problems/palindrome-permutation/description/) | [Palindrome Permutation](/LeetCode/Easy/266.%20Palindrome%20Permutation/) | Easy | [Python](/LeetCode/Easy/266.%20Palindrome%20Permutation/266.%20Palindrome%20Permutation.py) | Hashmap, String |  |
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](/LeetCode/Easy/268.%20Missing%20Number/) | Easy | [Python](/LeetCode/Easy/268.%20Missing%20Number/268.%20Missing%20Number.py) | Array, Math, Bit Manipulation |  |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](/LeetCode/Easy/283.%20Move%20Zeroes/) | Easy | [Python](/LeetCode/Easy/283.%20Move%20Zeroes/283.%20Move%20Zeroes.py) | Array |  |

@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "1099. Two Sum Less Than K"
-companies = [1, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/two-sum-less-than-k/description/'
-topic = ['Array', 'Sort', 'Two Pointers']
+title = "257. Binary Tree Paths"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/binary-tree-paths/description/'
+topic = ['BT', 'DFS']
 related = ''
 #######################################
 #######################################
