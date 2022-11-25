@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "232. Implement Queue using Stacks"
+title = "653. Two Sum IV - Input is a BST"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/implement-queue-using-stacks/description/'
-topic = ['Stack', 'Queue']
+url = 'https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/'
+topic = ['Hashmap', 'BST', 'DFS', 'Two Pointers']
 related = ''
 #######################################
 #######################################
