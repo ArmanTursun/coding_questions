@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "257. Binary Tree Paths"
+title = "733. Flood Fill"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/binary-tree-paths/description/'
-topic = ['BT', 'DFS']
+url = 'https://leetcode.com/problems/flood-fill/description/'
+topic = ['Graph', 'DFS']
 related = ''
 #######################################
 #######################################
