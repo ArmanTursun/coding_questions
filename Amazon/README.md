@@ -1,6 +1,6 @@
 # [Amazon](https://leetcode.com/company/amazon/)
 
-# Easy (74 problems)
+# Easy (75 problems)
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- |--|
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -60,6 +60,7 @@
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Squares of a Sorted Array](/LeetCode/Easy/977.%20Squares%20of%20a%20Sorted%20Array/) | Easy | [Python](/LeetCode/Easy/977.%20Squares%20of%20a%20Sorted%20Array/977.%20Squares%20of%20a%20Sorted%20Array.py) | Array, Two Pointers |  |
 | [1002](https://leetcode.com/problems/find-common-characters/description/) | [Find Common Characters](/LeetCode/Easy/1002.%20Find%20Common%20Characters/) | Easy | [Python](/LeetCode/Easy/1002.%20Find%20Common%20Characters/1002.%20Find%20Common%20Characters.py) | String, Array, Hashmap |  |
 | [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Remove All Adjacent Duplicates In String](/LeetCode/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy | [Python](/LeetCode/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) | String, Stack |  |
+| [1099](https://leetcode.com/problems/two-sum-less-than-k/description/) | [Two Sum Less Than K](/LeetCode/Easy/1099.%20Two%20Sum%20Less%20Than%20K/) | Easy | [Python](/LeetCode/Easy/1099.%20Two%20Sum%20Less%20Than%20K/1099.%20Two%20Sum%20Less%20Than%20K.py) | Array, Sort, Two Pointers |  |
 | [1108](https://leetcode.com/problems/defanging-an-ip-address/description/)      | [Defanging an IP Address](/LeetCode/Easy/1108.%20Defanging%20an%20IP%20Address/)             | Easy | [Python](/LeetCode/Easy/1108.%20Defanging%20an%20IP%20Address/1108.%20Defanging%20an%20IP%20Address.py) | String      |  |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) | [Find Words That Can Be Formed by Characters](/LeetCode/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/) | Easy | [Python](/LeetCode/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) | Array, Hashmap, String |  |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Unique Number of Occurrences](/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences/) | Easy | [Python](/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences/1207.%20Unique%20Number%20of%20Occurrences.py) | Array, Hashmap, Set |  |
