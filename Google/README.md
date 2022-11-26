@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (70 problems)
+# Easy (71 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -69,6 +69,7 @@
 | [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/) | [Sum of All Odd Length Subarrays](/LeetCode/Easy/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/) | Easy | [Python](/LeetCode/Easy/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) | Array |  |
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Sort Array by Increasing Frequency](/LeetCode/Easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency/) | Easy | [Python](/LeetCode/Easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency/1636.%20Sort%20Array%20by%20Increasing%20Frequency.py) | Sort, Array, Hashmap |  |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/description/) | [Maximum Units on a Truck](/LeetCode/Easy/1710.%20Maximum%20Units%20on%20a%20Truck/) | Easy | [Python](/LeetCode/Easy/1710.%20Maximum%20Units%20on%20a%20Truck/1710.%20Maximum%20Units%20on%20a%20Truck.py) | Greedy, Sorting |  |
+| [1854](https://leetcode.com/problems/maximum-population-year/description/) | [Maximum Population Year](/LeetCode/Easy/1854.%20Maximum%20Population%20Year/) | Easy | [Python](/LeetCode/Easy/1854.%20Maximum%20Population%20Year/1854.%20Maximum%20Population%20Year.py) | Array |  |
 | [1859](https://leetcode.com/problems/sorting-the-sentence/description/) | [Sorting the Sentence](/LeetCode/Easy/1859.%20Sorting%20the%20Sentence/) | Easy | [Python](/LeetCode/Easy/1859.%20Sorting%20the%20Sentence/1859.%20Sorting%20the%20Sentence.py) | String, Sorting |  |
 | [1920](https://leetcode.com/problems/build-array-from-permutation/description/) | [Build Array from Permutation](/LeetCode/Easy/1920.%20Build%20Array%20from%20Permutation/) | Easy | [Python](/LeetCode/Easy/1920.%20Build%20Array%20from%20Permutation/1920.%20Build%20Array%20from%20Permutation.py) | Array, Math |  |
 | [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) | [Find Target Indices After Sorting Array](/LeetCode/Easy/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/) | Easy | [Python](/LeetCode/Easy/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.py) | Array, Sorting |  |

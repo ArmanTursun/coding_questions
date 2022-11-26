@@ -1,6 +1,6 @@
 # [Facebook](https://leetcode.com/company/facebook/)
 
-# Easy (91 problems)
+# Easy (92 problems)
 | # | Title | Difficulty | Solution | Tag |
 | -- | ----- | ------------ | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -87,6 +87,7 @@
 | [1748](https://leetcode.com/problems/sum-of-unique-elements/description/) | [Sum of Unique Elements](/LeetCode/Easy/1748.%20Sum%20of%20Unique%20Elements/) | Easy | [Python](/LeetCode/Easy/1748.%20Sum%20of%20Unique%20Elements/1748.%20Sum%20of%20Unique%20Elements.py) | Array, Hashmap |  |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | [Count Items Matching a Rule](/LeetCode/Easy/1773.%20Count%20Items%20Matching%20a%20Rule/) | Easy | [Python](/LeetCode/Easy/1773.%20Count%20Items%20Matching%20a%20Rule/1773.%20Count%20Items%20Matching%20a%20Rule.py) | String, Sorting |  |
 | [1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | [Check if the Sentence Is Pangram](/LeetCode/Easy/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy | [Python](/LeetCode/Easy/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.py) | String, Set, Bit |  |
+| [1854](https://leetcode.com/problems/maximum-population-year/description/) | [Maximum Population Year](/LeetCode/Easy/1854.%20Maximum%20Population%20Year/) | Easy | [Python](/LeetCode/Easy/1854.%20Maximum%20Population%20Year/1854.%20Maximum%20Population%20Year.py) | Array |  |
 | [1859](https://leetcode.com/problems/sorting-the-sentence/description/) | [Sorting the Sentence](/LeetCode/Easy/1859.%20Sorting%20the%20Sentence/) | Easy | [Python](/LeetCode/Easy/1859.%20Sorting%20the%20Sentence/1859.%20Sorting%20the%20Sentence.py) | String, Sorting |  |
 | [1920](https://leetcode.com/problems/build-array-from-permutation/description/) | [Build Array from Permutation](/LeetCode/Easy/1920.%20Build%20Array%20from%20Permutation/) | Easy | [Python](/LeetCode/Easy/1920.%20Build%20Array%20from%20Permutation/1920.%20Build%20Array%20from%20Permutation.py) | Array, Math |  |
 | [1925](https://leetcode.com/problems/count-square-sum-triples/description/) | [Count Square Sum Triples](/LeetCode/Easy/1925.%20Count%20Square%20Sum%20Triples/) | Easy | [Python](/LeetCode/Easy/1925.%20Count%20Square%20Sum%20Triples/1925.%20Count%20Square%20Sum%20Triples.py) | Math |  |
