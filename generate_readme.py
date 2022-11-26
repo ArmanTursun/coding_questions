@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "733. Flood Fill"
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/flood-fill/description/'
-topic = ['Graph', 'DFS']
+title = "389. Find the Difference"
+companies = [1, 2, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/find-the-difference/description/'
+topic = ['String', 'Bit Manipulation', 'Hashmap', 'Sorting']
 related = ''
 #######################################
 #######################################
