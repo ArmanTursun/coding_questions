@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (71 problems)
+# Easy (72 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -40,6 +40,7 @@
 | [359](https://leetcode.com/problems/logger-rate-limiter/description/) | [Logger Rate Limiter](/LeetCode/Easy/359.%20Logger%20Rate%20Limiter/) | Easy | [Python](/LeetCode/Easy/359.%20Logger%20Rate%20Limiter/359.%20Logger%20Rate%20Limiter.py) | Hashmap |  |
 | [389](https://leetcode.com/problems/find-the-difference/description/) | [Find the Difference](/LeetCode/Easy/389.%20Find%20the%20Difference/) | Easy | [Python](/LeetCode/Easy/389.%20Find%20the%20Difference/389.%20Find%20the%20Difference.py) | String, Bit Manipulation, Hashmap, Sorting |  |
 | [412](https://leetcode.com/problems/fizz-buzz/description/) | [Fizz Buzz](/LeetCode/Easy/412.%20Fizz%20Buzz/) | Easy | [Python](/LeetCode/Easy/412.%20Fizz%20Buzz/412.%20Fizz%20Buzz.py) | String, Math |  |
+| [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Find All Numbers Disappeared in an Array](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy | [Python](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Array, Hashmap |  |
 | [461](https://leetcode.com/problems/hamming-distance/description/) | [Hamming Distance](/LeetCode/Easy/461.%20Hamming%20Distance/) | Easy | [Python](/LeetCode/Easy/461.%20Hamming%20Distance/461.%20Hamming%20Distance.py) | Bit Manipulation |  |
 | [463](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](/LeetCode/Easy/463.%20Island%20Perimeter/) | Easy | [Python](/LeetCode/Easy/463.%20Island%20Perimeter/463.%20Island%20Perimeter.py) | Matrix, Array |  |
 | [509](https://leetcode.com/problems/fibonacci-number/description/) | [Fibonacci Number](/LeetCode/Easy/509.%20Fibonacci%20Number/) | Easy | [Python](/LeetCode/Easy/509.%20Fibonacci%20Number/509.%20Fibonacci%20Number.py) | DP, Math |  |

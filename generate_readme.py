@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "1854. Maximum Population Year"
-companies = [1, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/maximum-population-year/description/'
-topic = ['Array']
+title = "448. Find All Numbers Disappeared in an Array"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/'
+topic = ['Array', 'Hashmap']
 related = ''
 #######################################
 #######################################
