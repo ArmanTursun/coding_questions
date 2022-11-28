@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "448. Find All Numbers Disappeared in an Array"
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/'
-topic = ['Array', 'Hashmap']
+title = "1287. Element Appearing More Than 25% In Sorted Array"
+companies = [3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/'
+topic = ['Array']
 related = ''
 #######################################
 #######################################

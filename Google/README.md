@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (72 problems)
+# Easy (73 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -63,6 +63,7 @@
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) | [Find Words That Can Be Formed by Characters](/LeetCode/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/) | Easy | [Python](/LeetCode/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) | Array, Hashmap, String |  |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Unique Number of Occurrences](/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences/) | Easy | [Python](/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences/1207.%20Unique%20Number%20of%20Occurrences.py) | Array, Hashmap, Set |  |
 | [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [Subtract the Product and Sum of Digits of an Integer](/LeetCode/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy | [Python](/LeetCode/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py) | Math             |  |
+| [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) | [Element Appearing More Than 25% In Sorted Array](/LeetCode/Easy/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array/) | Easy | [Python](/LeetCode/Easy/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array.py) | Array |  |
 | [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | [Count Negative Numbers in a Sorted Matrix](/LeetCode/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy | [Python](/LeetCode/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py) | Array |  |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Running Sum of 1d Array](/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array/) | Easy | [Python](/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array/1480.%20Running%20Sum%20of%201d%20Array.py) | Array |  |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/description/)         | [Number of Good Pairs](/LeetCode/Easy/1512.%20Number%20of%20Good%20Pairs/)                       | Easy | [Python](/LeetCode/Easy/1512.%20Number%20of%20Good%20Pairs/1512.%20Number%20of%20Good%20Pairs.py) | Array, Hashmap |  |
