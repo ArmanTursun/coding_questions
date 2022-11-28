@@ -1,6 +1,6 @@
 # [Amazon](https://leetcode.com/company/amazon/)
 
-# Easy (80 problems)
+# Easy (81 problems)
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- |--|
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -69,6 +69,7 @@
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) | [Find Words That Can Be Formed by Characters](/LeetCode/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/) | Easy | [Python](/LeetCode/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) | Array, Hashmap, String |  |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Unique Number of Occurrences](/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences/) | Easy | [Python](/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences/1207.%20Unique%20Number%20of%20Occurrences.py) | Array, Hashmap, Set |  |
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | [Replace Elements with Greatest Element on Right Side](/LeetCode/Easy/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/) | Easy | [Python](/LeetCode/Easy/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py) | Array |  |
+| [1331](https://leetcode.com/problems/rank-transform-of-an-array/description/) | [Rank Transform of an Array](/LeetCode/Easy/1331.%20Rank%20Transform%20of%20an%20Array/) | Easy | [Python](/LeetCode/Easy/1331.%20Rank%20Transform%20of%20an%20Array/1331.%20Rank%20Transform%20of%20an%20Array.py) | Array, Sort |  |
 | [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | [Count Negative Numbers in a Sorted Matrix](/LeetCode/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy | [Python](/LeetCode/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py) | Array |  |
 | [1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)      | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/LeetCode/Easy/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/)             | Easy | [Python](/LeetCode/Easy/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py) | Binary Tree, DFS      |  |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Running Sum of 1d Array](/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array/) | Easy | [Python](/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array/1480.%20Running%20Sum%20of%201d%20Array.py) | Array |  |
