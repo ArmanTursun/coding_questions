@@ -1,6 +1,6 @@
 # [Apple](https://leetcode.com/company/apple/)
 
-# Easy (69 problems)
+# Easy (70 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -37,6 +37,7 @@
 | [346](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Moving Average from Data Stream](/LeetCode/Easy/346.%20Moving%20Average%20from%20Data%20Stream/) | Easy | [Python](/LeetCode/Easy/346.%20Moving%20Average%20from%20Data%20Stream/346.%20Moving%20Average%20from%20Data%20Stream.py) | Array, Queue |  |
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](/LeetCode/Easy/349.%20Intersection%20of%20Two%20Arrays/) | Easy | [Python](/LeetCode/Easy/349.%20Intersection%20of%20Two%20Arrays/349.%20Intersection%20of%20Two%20Arrays.py) | Set, Array |  |
 | [359](https://leetcode.com/problems/logger-rate-limiter/description/) | [Logger Rate Limiter](/LeetCode/Easy/359.%20Logger%20Rate%20Limiter/) | Easy | [Python](/LeetCode/Easy/359.%20Logger%20Rate%20Limiter/359.%20Logger%20Rate%20Limiter.py) | Hashmap |  |
+| [387](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [First Unique Character in a String](/LeetCode/Easy/387.%20First%20Unique%20Character%20in%20a%20String/) | Easy | [Python](/LeetCode/Easy/387.%20First%20Unique%20Character%20in%20a%20String/387.%20First%20Unique%20Character%20in%20a%20String.py) | String, Hashmap |  |
 | [389](https://leetcode.com/problems/find-the-difference/description/) | [Find the Difference](/LeetCode/Easy/389.%20Find%20the%20Difference/) | Easy | [Python](/LeetCode/Easy/389.%20Find%20the%20Difference/389.%20Find%20the%20Difference.py) | String, Bit Manipulation, Hashmap, Sorting |  |
 | [412](https://leetcode.com/problems/fizz-buzz/description/) | [Fizz Buzz](/LeetCode/Easy/412.%20Fizz%20Buzz/) | Easy | [Python](/LeetCode/Easy/412.%20Fizz%20Buzz/412.%20Fizz%20Buzz.py) | String, Math |  |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Find All Numbers Disappeared in an Array](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy | [Python](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Array, Hashmap |  |
