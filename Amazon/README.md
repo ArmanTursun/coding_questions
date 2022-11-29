@@ -1,6 +1,6 @@
 # [Amazon](https://leetcode.com/company/amazon/)
 
-# Easy (82 problems)
+# Easy (83 problems)
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- |--|
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -36,6 +36,7 @@
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](/LeetCode/Easy/268.%20Missing%20Number/) | Easy | [Python](/LeetCode/Easy/268.%20Missing%20Number/268.%20Missing%20Number.py) | Array, Math, Bit Manipulation |  |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](/LeetCode/Easy/283.%20Move%20Zeroes/) | Easy | [Python](/LeetCode/Easy/283.%20Move%20Zeroes/283.%20Move%20Zeroes.py) | Array |  |
 | [295](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Find Median from Data Stream](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/) | Hard | [Python](/LeetCode/Hard/295.%20Find%20Median%20from%20Data%20Stream/295.%20Find%20Median%20from%20Data%20Stream.py) | Heap, Two Pointers, Multiset |  |
+| [303](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Range Sum Query - Immutable](/LeetCode/Easy/303.%20Range%20Sum%20Query%20-%20Immutable/) | Easy | [Python](/LeetCode/Easy/303.%20Range%20Sum%20Query%20-%20Immutable/303.%20Range%20Sum%20Query%20-%20Immutable.py) | Array, Prefix Sum |  |
 | [344](https://leetcode.com/problems/reverse-string/description/) | [Reverse String](/LeetCode/Easy/344.%20Reverse%20String/) | Easy | [Python](/LeetCode/Easy/344.%20Reverse%20String/344.%20Reverse%20String.py) | Two Pointers, Sorting |  |
 | [346](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [Moving Average from Data Stream](/LeetCode/Easy/346.%20Moving%20Average%20from%20Data%20Stream/) | Easy | [Python](/LeetCode/Easy/346.%20Moving%20Average%20from%20Data%20Stream/346.%20Moving%20Average%20from%20Data%20Stream.py) | Array, Queue |  |
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](/LeetCode/Easy/349.%20Intersection%20of%20Two%20Arrays/) | Easy | [Python](/LeetCode/Easy/349.%20Intersection%20of%20Two%20Arrays/349.%20Intersection%20of%20Two%20Arrays.py) | Set, Array |  |

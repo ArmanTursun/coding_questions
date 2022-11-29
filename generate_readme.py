@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "387. First Unique Character in a String"
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/first-unique-character-in-a-string/description/'
-topic = ['String', 'Hashmap']
+title = "303. Range Sum Query - Immutable"
+companies = [1, 3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/range-sum-query-immutable/description/'
+topic = ['Array', 'Prefix Sum']
 related = ''
 #######################################
 #######################################
