@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "896. Monotonic Array"
-companies = [1, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/monotonic-array/description/'
-topic = ['Array']
+title = "13. Roman to Integer"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/roman-to-integer/description/'
+topic = ['String', 'Hashmap']
 related = ''
 #######################################
 #######################################
