@@ -1,6 +1,6 @@
 # [Microsoft](https://leetcode.com/company/microsoft/)
 
-# Easy (58 problems)
+# Easy (59 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -52,6 +52,7 @@
 | [733](https://leetcode.com/problems/flood-fill/description/) | [Flood Fill](/LeetCode/Easy/733.%20Flood%20Fill/) | Easy | [Python](/LeetCode/Easy/733.%20Flood%20Fill/733.%20Flood%20Fill.py) | Graph, DFS |  |
 | [771](https://leetcode.com/problems/jewels-and-stones/description/)       | [Jewels and Stones](/LeetCode/Easy/771.%20Jewels%20and%20Stones/)                              | Easy | [Python](/LeetCode/Easy/771.%20Jewels%20and%20Stones/771.%20Jewels%20and%20Stones.py) | String, Set         |  |
 | [876](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Middle of the Linked List](/LeetCode/Easy/876.%20Middle%20of%20the%20Linked%20List/) | Easy | [Python](/LeetCode/Easy/876.%20Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.py) | Linked List, Two Pointers |  |
+| [896](https://leetcode.com/problems/monotonic-array/description/) | [Monotonic Array](/LeetCode/Easy/896.%20Monotonic%20Array/) | Easy | [Python](/LeetCode/Easy/896.%20Monotonic%20Array/896.%20Monotonic%20Array.py) | Array |  |
 | [905](https://leetcode.com/problems/sort-array-by-parity/description/) | [Sort Array By Parity](/LeetCode/Easy/905.%20Sort%20Array%20By%20Parity/) | Easy | [Python](/LeetCode/Easy/905.%20Sort%20Array%20By%20Parity/905.%20Sort%20Array%20By%20Parity.py) | Array, Two Pointers |  |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Squares of a Sorted Array](/LeetCode/Easy/977.%20Squares%20of%20a%20Sorted%20Array/) | Easy | [Python](/LeetCode/Easy/977.%20Squares%20of%20a%20Sorted%20Array/977.%20Squares%20of%20a%20Sorted%20Array.py) | Array, Two Pointers |  |
 | [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Remove All Adjacent Duplicates In String](/LeetCode/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy | [Python](/LeetCode/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) | String, Stack |  |

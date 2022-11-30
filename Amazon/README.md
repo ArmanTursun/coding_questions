@@ -1,6 +1,6 @@
 # [Amazon](https://leetcode.com/company/amazon/)
 
-# Easy (83 problems)
+# Easy (84 problems)
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- |--|
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -60,6 +60,7 @@
 | [771](https://leetcode.com/problems/jewels-and-stones/description/)       | [Jewels and Stones](/LeetCode/Easy/771.%20Jewels%20and%20Stones/)                              | Easy | [Python](/LeetCode/Easy/771.%20Jewels%20and%20Stones/771.%20Jewels%20and%20Stones.py) | String, Set         |  |
 | [832](https://leetcode.com/problems/flipping-an-image/description/) | [Flipping an Image](/LeetCode/Easy/832.%20Flipping%20an%20Image/) | Easy | [Python](/LeetCode/Easy/832.%20Flipping%20an%20Image/832.%20Flipping%20an%20Image.py) | Array |  |
 | [876](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Middle of the Linked List](/LeetCode/Easy/876.%20Middle%20of%20the%20Linked%20List/) | Easy | [Python](/LeetCode/Easy/876.%20Middle%20of%20the%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List.py) | Linked List, Two Pointers |  |
+| [896](https://leetcode.com/problems/monotonic-array/description/) | [Monotonic Array](/LeetCode/Easy/896.%20Monotonic%20Array/) | Easy | [Python](/LeetCode/Easy/896.%20Monotonic%20Array/896.%20Monotonic%20Array.py) | Array |  |
 | [897](https://leetcode.com/problems/increasing-order-search-tree/description/) | [Increasing Order Search Tree](/LeetCode/Easy/897.%20Increasing%20Order%20Search%20Tree/) | Easy | [Python](/LeetCode/Easy/897.%20Increasing%20Order%20Search%20Tree/897.%20Increasing%20Order%20Search%20Tree.py) | BST, DFS, Stack |  |
 | [905](https://leetcode.com/problems/sort-array-by-parity/description/) | [Sort Array By Parity](/LeetCode/Easy/905.%20Sort%20Array%20By%20Parity/) | Easy | [Python](/LeetCode/Easy/905.%20Sort%20Array%20By%20Parity/905.%20Sort%20Array%20By%20Parity.py) | Array, Two Pointers |  |
 | [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](/LeetCode/Easy/938.%20Range%20Sum%20of%20BST/) | Easy | [Python](/LeetCode/Easy/938.%20Range%20Sum%20of%20BST/938.%20Range%20Sum%20of%20BST.py) | BST, DFS |  |
