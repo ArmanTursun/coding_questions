@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "13. Roman to Integer"
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/roman-to-integer/description/'
-topic = ['String', 'Hashmap']
+title = "2210. Count Hills and Valleys in an Array"
+companies = [3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/'
+topic = ['Array']
 related = ''
 #######################################
 #######################################

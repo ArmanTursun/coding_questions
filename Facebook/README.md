@@ -1,6 +1,6 @@
 # [Facebook](https://leetcode.com/company/facebook/)
 
-# Easy (99 problems)
+# Easy (100 problems)
 | # | Title | Difficulty | Solution | Tag |
 | -- | ----- | ------------ | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -100,6 +100,7 @@
 | [1925](https://leetcode.com/problems/count-square-sum-triples/description/) | [Count Square Sum Triples](/LeetCode/Easy/1925.%20Count%20Square%20Sum%20Triples/) | Easy | [Python](/LeetCode/Easy/1925.%20Count%20Square%20Sum%20Triples/1925.%20Count%20Square%20Sum%20Triples.py) | Math |  |
 | [1991](https://leetcode.com/problems/find-the-middle-index-in-array/description/) | [Find the Middle Index in Array](/LeetCode/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array/) | Easy | [Python](/LeetCode/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array/1991.%20Find%20the%20Middle%20Index%20in%20Array.py) | Array |  |
 | [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) | [Find Target Indices After Sorting Array](/LeetCode/Easy/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/) | Easy | [Python](/LeetCode/Easy/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.py) | Array, Sorting |  |
+| [2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/) | [Count Hills and Valleys in an Array](/LeetCode/Easy/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array/) | Easy | [Python](/LeetCode/Easy/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array/2210.%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py) | Array |  |
 | [2235](https://leetcode.com/problems/add-two-integers/description/) | [Add Two Integers](/LeetCode/Easy/2235.%20Add%20Two%20Integers/) | Hard | [Python](/LeetCode/Easy/2235.%20Add%20Two%20Integers/2235.%20Add%20Two%20Integers.py) | Math |  |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/) | [Calculate Amount Paid in Taxes](/LeetCode/Easy/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/) | Easy | [Python](/LeetCode/Easy/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.py) | Array |  |
 
