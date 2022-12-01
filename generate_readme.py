@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "383. Ransom Note"
+title = "252. Meeting Rooms"
 companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/ransom-note/description/'
-topic = ['String', 'Hashmap', 'Sort']
+url = 'https://leetcode.com/problems/meeting-rooms/description/'
+topic = ['Array', 'Sort']
 related = ''
 #######################################
 #######################################
