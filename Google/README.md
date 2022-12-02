@@ -1,6 +1,6 @@
 # [Google](https://leetcode.com/company/google/)
 
-# Easy (79 problems)
+# Easy (80 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -48,6 +48,7 @@
 | [461](https://leetcode.com/problems/hamming-distance/description/) | [Hamming Distance](/LeetCode/Easy/461.%20Hamming%20Distance/) | Easy | [Python](/LeetCode/Easy/461.%20Hamming%20Distance/461.%20Hamming%20Distance.py) | Bit Manipulation |  |
 | [463](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](/LeetCode/Easy/463.%20Island%20Perimeter/) | Easy | [Python](/LeetCode/Easy/463.%20Island%20Perimeter/463.%20Island%20Perimeter.py) | Matrix, Array |  |
 | [509](https://leetcode.com/problems/fibonacci-number/description/) | [Fibonacci Number](/LeetCode/Easy/509.%20Fibonacci%20Number/) | Easy | [Python](/LeetCode/Easy/509.%20Fibonacci%20Number/509.%20Fibonacci%20Number.py) | DP, Math |  |
+| [530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Minimum Absolute Difference in BST](/LeetCode/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST/) | Easy | [Python](/LeetCode/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST/530.%20Minimum%20Absolute%20Difference%20in%20BST.py) | BST, DFS |  |
 | [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Reverse Words in a String III](/LeetCode/Easy/557.%20Reverse%20Words%20in%20a%20String%20III/) | Easy | [Python](/LeetCode/Easy/557.%20Reverse%20Words%20in%20a%20String%20III/557.%20Reverse%20Words%20in%20a%20String%20III.py) | String |  |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Merge Two Binary Trees](/LeetCode/Easy/617.%20Merge%20Two%20Binary%20Trees/) | Easy | [Python](/LeetCode/Easy/617.%20Merge%20Two%20Binary%20Trees/617.%20Merge%20Two%20Binary%20Trees.py) | Binary Tree, DFS |  |
 | [653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Two Sum IV - Input is a BST](/LeetCode/Easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/) | Easy | [Python](/LeetCode/Easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.py) | Hashmap, BST, DFS, Two Pointers |  |
