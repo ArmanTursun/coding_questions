@@ -1,6 +1,6 @@
 # [Apple](https://leetcode.com/company/apple/)
 
-# Easy (74 problems)
+# Easy (75 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -43,6 +43,7 @@
 | [383](https://leetcode.com/problems/ransom-note/description/) | [Ransom Note](/LeetCode/Easy/383.%20Ransom%20Note/) | Easy | [Python](/LeetCode/Easy/383.%20Ransom%20Note/383.%20Ransom%20Note.py) | String, Hashmap, Sort |  |
 | [387](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [First Unique Character in a String](/LeetCode/Easy/387.%20First%20Unique%20Character%20in%20a%20String/) | Easy | [Python](/LeetCode/Easy/387.%20First%20Unique%20Character%20in%20a%20String/387.%20First%20Unique%20Character%20in%20a%20String.py) | String, Hashmap |  |
 | [389](https://leetcode.com/problems/find-the-difference/description/) | [Find the Difference](/LeetCode/Easy/389.%20Find%20the%20Difference/) | Easy | [Python](/LeetCode/Easy/389.%20Find%20the%20Difference/389.%20Find%20the%20Difference.py) | String, Bit Manipulation, Hashmap, Sorting |  |
+| [404](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Sum of Left Leaves](/LeetCode/Easy/404.%20Sum%20of%20Left%20Leaves/) | Easy | [Python](/LeetCode/Easy/404.%20Sum%20of%20Left%20Leaves/404.%20Sum%20of%20Left%20Leaves.py) | BT, DFS |  |
 | [412](https://leetcode.com/problems/fizz-buzz/description/) | [Fizz Buzz](/LeetCode/Easy/412.%20Fizz%20Buzz/) | Easy | [Python](/LeetCode/Easy/412.%20Fizz%20Buzz/412.%20Fizz%20Buzz.py) | String, Math |  |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Find All Numbers Disappeared in an Array](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy | [Python](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Array, Hashmap |  |
 | [463](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](/LeetCode/Easy/463.%20Island%20Perimeter/) | Easy | [Python](/LeetCode/Easy/463.%20Island%20Perimeter/463.%20Island%20Perimeter.py) | Matrix, Array |  |
