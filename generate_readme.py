@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "530. Minimum Absolute Difference in BST"
-companies = [1, 3, 4] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/'
-topic = ['BST', 'DFS']
+title = "100. Same Tree"
+companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/same-tree/description/'
+topic = ['BT', 'DFS']
 related = ''
 #######################################
 #######################################

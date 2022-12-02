@@ -1,6 +1,6 @@
 # [Amazon](https://leetcode.com/company/amazon/)
 
-# Easy (88 problems)
+# Easy (89 problems)
 | # | Title | Difficulty | Solution | Tag |
 |---| ----- | ---------- | -------- |--|
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -19,6 +19,7 @@
 | [13](https://leetcode.com/problems/roman-to-integer/description/) | [Roman to Integer](/LeetCode/Easy/13.%20Roman%20to%20Integer/) | Easy | [Python](/LeetCode/Easy/13.%20Roman%20to%20Integer/13.%20Roman%20to%20Integer.py) | String, Hashmap |  |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Merge Two Sorted Lists](/LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists/) | Easy | [Python](/LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists/21.%20Merge%20Two%20Sorted%20Lists.py) | Linked List |  |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Binary Tree Inorder Traversal](/LeetCode/Easy/94.%20Binary%20Tree%20Inorder%20Traversal/) | Easy | [Python](/LeetCode/Easy/94.%20Binary%20Tree%20Inorder%20Traversal/94.%20Binary%20Tree%20Inorder%20Traversal.py) | BT, DFS, Threaded Binary Tree |  |
+| [100](https://leetcode.com/problems/same-tree/description/) | [Same Tree](/LeetCode/Easy/100.%20Same%20Tree/) | Easy | [Python](/LeetCode/Easy/100.%20Same%20Tree/100.%20Same%20Tree.py) | BT, DFS |  |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Maximum Depth of Binary Tree](/LeetCode/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | BT, DFS |  |
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Convert Sorted Array to Binary Search Tree](/LeetCode/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy | [Python](/LeetCode/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py) | BST |  |
 | [118](https://leetcode.com/problems/pascals-triangle/description/) | [Pascal's Triangle](/LeetCode/Easy/118.%20Pascal's%20Triangle/) | Easy | [Python](/LeetCode/Easy/118.%20Pascal's%20Triangle/118.%20Pascal's%20Triangle.py) | DP, Array |  |
