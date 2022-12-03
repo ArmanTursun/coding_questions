@@ -39,3 +39,37 @@ class Solution:
 ## T = O(n); S = O(h)
 
 
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
+        cur = root
+        result = 0
+
+        while cur:
+            if not cur.left:
+                cur = cur.right
+            else:
+                predecessor = self.findInorderPre(cur.left, cur)
+                if predecessor == cur.left and not predecessor.left:
+                    result += predecessor.val
+                    cur = cur.right
+                elif predecessor.right is None:
+                    predecessor.right = cur
+                    cur = cur.left
+                else:
+                    predecessor.right = None
+                    cur = cur.right
+        return result
+
+    def findInorderPre(self, root, cur):
+        while root.right and root.right != cur:
+            root = root.right
+        return root
+## T = O(n); S = O(1)
+
