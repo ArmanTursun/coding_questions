@@ -1,6 +1,6 @@
 # [Facebook](https://leetcode.com/company/facebook/)
 
-# Easy (105 problems)
+# Easy (106 problems)
 | # | Title | Difficulty | Solution | Tag |
 | -- | ----- | ------------ | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -52,6 +52,7 @@
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Find All Numbers Disappeared in an Array](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy | [Python](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Array, Hashmap |  |
 | [461](https://leetcode.com/problems/hamming-distance/description/) | [Hamming Distance](/LeetCode/Easy/461.%20Hamming%20Distance/) | Easy | [Python](/LeetCode/Easy/461.%20Hamming%20Distance/461.%20Hamming%20Distance.py) | Bit Manipulation |  |
 | [463](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](/LeetCode/Easy/463.%20Island%20Perimeter/) | Easy | [Python](/LeetCode/Easy/463.%20Island%20Perimeter/463.%20Island%20Perimeter.py) | Matrix, Array |  |
+| [485](https://leetcode.com/problems/max-consecutive-ones/description/) | [Max Consecutive Ones](/LeetCode/Easy/485.%20Max%20Consecutive%20Ones/) | Easy | [Python](/LeetCode/Easy/485.%20Max%20Consecutive%20Ones/485.%20Max%20Consecutive%20Ones.py) | Array |  |
 | [496](https://leetcode.com/problems/next-greater-element-i/description/) | [Next Greater Element I](/LeetCode/Easy/496.%20Next%20Greater%20Element%20I/) | Easy | [Python](/LeetCode/Easy/496.%20Next%20Greater%20Element%20I/496.%20Next%20Greater%20Element%20I.py) | Array, Hashmap |  |
 | [509](https://leetcode.com/problems/fibonacci-number/description/) | [Fibonacci Number](/LeetCode/Easy/509.%20Fibonacci%20Number/) | Easy | [Python](/LeetCode/Easy/509.%20Fibonacci%20Number/509.%20Fibonacci%20Number.py) | DP, Math |  |
 | [530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Minimum Absolute Difference in BST](/LeetCode/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST/) | Easy | [Python](/LeetCode/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST/530.%20Minimum%20Absolute%20Difference%20in%20BST.py) | BST, DFS |  |

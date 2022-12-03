@@ -1,6 +1,6 @@
 # [Apple](https://leetcode.com/company/apple/)
 
-# Easy (75 problems)
+# Easy (76 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -47,6 +47,7 @@
 | [412](https://leetcode.com/problems/fizz-buzz/description/) | [Fizz Buzz](/LeetCode/Easy/412.%20Fizz%20Buzz/) | Easy | [Python](/LeetCode/Easy/412.%20Fizz%20Buzz/412.%20Fizz%20Buzz.py) | String, Math |  |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Find All Numbers Disappeared in an Array](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy | [Python](/LeetCode/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | Array, Hashmap |  |
 | [463](https://leetcode.com/problems/island-perimeter/description/) | [Island Perimeter](/LeetCode/Easy/463.%20Island%20Perimeter/) | Easy | [Python](/LeetCode/Easy/463.%20Island%20Perimeter/463.%20Island%20Perimeter.py) | Matrix, Array |  |
+| [485](https://leetcode.com/problems/max-consecutive-ones/description/) | [Max Consecutive Ones](/LeetCode/Easy/485.%20Max%20Consecutive%20Ones/) | Easy | [Python](/LeetCode/Easy/485.%20Max%20Consecutive%20Ones/485.%20Max%20Consecutive%20Ones.py) | Array |  |
 | [496](https://leetcode.com/problems/next-greater-element-i/description/) | [Next Greater Element I](/LeetCode/Easy/496.%20Next%20Greater%20Element%20I/) | Easy | [Python](/LeetCode/Easy/496.%20Next%20Greater%20Element%20I/496.%20Next%20Greater%20Element%20I.py) | Array, Hashmap |  |
 | [509](https://leetcode.com/problems/fibonacci-number/description/) | [Fibonacci Number](/LeetCode/Easy/509.%20Fibonacci%20Number/) | Easy | [Python](/LeetCode/Easy/509.%20Fibonacci%20Number/509.%20Fibonacci%20Number.py) | DP, Math |  |
 | [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Reverse Words in a String III](/LeetCode/Easy/557.%20Reverse%20Words%20in%20a%20String%20III/) | Easy | [Python](/LeetCode/Easy/557.%20Reverse%20Words%20in%20a%20String%20III/557.%20Reverse%20Words%20in%20a%20String%20III.py) | String |  |
