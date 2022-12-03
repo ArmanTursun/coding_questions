@@ -1,6 +1,6 @@
 # [Microsoft](https://leetcode.com/company/microsoft/)
 
-# Easy (64 problems)
+# Easy (65 problems)
 | # | Title | Difficulty | Solution | Tag |
 |--| ----- | ---------- | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -49,6 +49,7 @@
 | [485](https://leetcode.com/problems/max-consecutive-ones/description/) | [Max Consecutive Ones](/LeetCode/Easy/485.%20Max%20Consecutive%20Ones/) | Easy | [Python](/LeetCode/Easy/485.%20Max%20Consecutive%20Ones/485.%20Max%20Consecutive%20Ones.py) | Array |  |
 | [496](https://leetcode.com/problems/next-greater-element-i/description/) | [Next Greater Element I](/LeetCode/Easy/496.%20Next%20Greater%20Element%20I/) | Easy | [Python](/LeetCode/Easy/496.%20Next%20Greater%20Element%20I/496.%20Next%20Greater%20Element%20I.py) | Array, Hashmap |  |
 | [509](https://leetcode.com/problems/fibonacci-number/description/) | [Fibonacci Number](/LeetCode/Easy/509.%20Fibonacci%20Number/) | Easy | [Python](/LeetCode/Easy/509.%20Fibonacci%20Number/509.%20Fibonacci%20Number.py) | DP, Math |  |
+| [543](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Diameter of Binary Tree](/LeetCode/Easy/543.%20Diameter%20of%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/543.%20Diameter%20of%20Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.py) | BT, DFS |  |
 | [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Reverse Words in a String III](/LeetCode/Easy/557.%20Reverse%20Words%20in%20a%20String%20III/) | Easy | [Python](/LeetCode/Easy/557.%20Reverse%20Words%20in%20a%20String%20III/557.%20Reverse%20Words%20in%20a%20String%20III.py) | String |  |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Merge Two Binary Trees](/LeetCode/Easy/617.%20Merge%20Two%20Binary%20Trees/) | Easy | [Python](/LeetCode/Easy/617.%20Merge%20Two%20Binary%20Trees/617.%20Merge%20Two%20Binary%20Trees.py) | Binary Tree, DFS |  |
 | [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Average of Levels in Binary Tree](/LeetCode/Easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree/) | Easy | [Python](/LeetCode/Easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree/637.%20Average%20of%20Levels%20in%20Binary%20Tree.py) | BT, BFS |  |
