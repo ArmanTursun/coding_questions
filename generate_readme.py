@@ -5,10 +5,10 @@
 #######################################
 #######################################
 hardest = 'Easy' #  Medium, Hard
-title = "543. Diameter of Binary Tree"
-companies = [1, 2, 3, 4, 5] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
-url = 'https://leetcode.com/problems/diameter-of-binary-tree/description/'
-topic = ['BT', 'DFS']
+title = "1640. Check Array Formation Through Concatenation"
+companies = [3] ## '1. Amazon', '2. Apple', '3. Facebook', '4. Google', '5. Microsoft'
+url = 'https://leetcode.com/problems/check-array-formation-through-concatenation/description/'
+topic = ['Array', 'Hashmap']
 related = ''
 #######################################
 #######################################

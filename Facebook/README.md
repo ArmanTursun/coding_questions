@@ -1,6 +1,6 @@
 # [Facebook](https://leetcode.com/company/facebook/)
 
-# Easy (107 problems)
+# Easy (108 problems)
 | # | Title | Difficulty | Solution | Tag |
 | -- | ----- | ------------ | -------- | --- |
 | A | [Two Number Sum](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum) | Easy | [Python](/AlgoExpert/Arrays/Easy/Two%20Number%20Sum/Two%20Number%20Sum.py) | Array |
@@ -96,6 +96,7 @@
 | [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/) | [Sum of All Odd Length Subarrays](/LeetCode/Easy/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/) | Easy | [Python](/LeetCode/Easy/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) | Array |  |
 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [Maximum Nesting Depth of the Parentheses](/LeetCode/Easy/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) | Easy | [Python](/LeetCode/Easy/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py) | Array, String |  |
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Sort Array by Increasing Frequency](/LeetCode/Easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency/) | Easy | [Python](/LeetCode/Easy/1636.%20Sort%20Array%20by%20Increasing%20Frequency/1636.%20Sort%20Array%20by%20Increasing%20Frequency.py) | Sort, Array, Hashmap |  |
+| [1640](https://leetcode.com/problems/check-array-formation-through-concatenation/description/) | [Check Array Formation Through Concatenation](/LeetCode/Easy/1640.%20Check%20Array%20Formation%20Through%20Concatenation/) | Easy | [Python](/LeetCode/Easy/1640.%20Check%20Array%20Formation%20Through%20Concatenation/1640.%20Check%20Array%20Formation%20Through%20Concatenation.py) | Array, Hashmap |  |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Check If Two String Arrays are Equivalent](/LeetCode/Easy/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy | [Python](/LeetCode/Easy/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) | Array, String |  |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/description/) | [Maximum Units on a Truck](/LeetCode/Easy/1710.%20Maximum%20Units%20on%20a%20Truck/) | Easy | [Python](/LeetCode/Easy/1710.%20Maximum%20Units%20on%20a%20Truck/1710.%20Maximum%20Units%20on%20a%20Truck.py) | Greedy, Sorting |  |
 | [1748](https://leetcode.com/problems/sum-of-unique-elements/description/) | [Sum of Unique Elements](/LeetCode/Easy/1748.%20Sum%20of%20Unique%20Elements/) | Easy | [Python](/LeetCode/Easy/1748.%20Sum%20of%20Unique%20Elements/1748.%20Sum%20of%20Unique%20Elements.py) | Array, Hashmap |  |
